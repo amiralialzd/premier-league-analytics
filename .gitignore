@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+train.py
+train.db
+downloaded_files/
+data frame 7 of july.csv
+jun9 update for premier league project.csv
+until 10jun updated.csv

@@ -1,93 +1,104 @@
 # ⚽ Premier League Match Predictor
 
-> Predicting Premier League 2024/25 match outcomes using machine learning — built from scratch with real match data, engineered features, and a live Streamlit app.
+> Predicting Premier League 2024/25 match outcomes (Home Win / Draw / Away Win) with machine learning, using features built from raw match results and a live Streamlit app.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://premier-league-analytics-2024-25.streamlit.app)
 
----
+**Live demo:** https://premier-league-analytics-2024-25.streamlit.app
 
-## 🚀 Live Demo
+![App screenshot](screenshot.png)
 
-**[https://premier-league-analytics-2024-25.streamlit.app](https://premier-league-analytics-2024-25.streamlit.app)**
-
-Select any two Premier League teams → get a predicted result with probability scores.
+Select a home team and an away team to get a predicted result with probability scores.
 
 ---
 
-## 📱 What the App Does
+## What the app does
 
-- User selects a **home team** and an **away team**
-- App looks up each team's end-of-season performance stats
-- XGBoost model predicts: **Home Win / Draw / Away Win**
-- Results displayed as a probability bar chart
+- The user picks a **home team** and an **away team**.
+- The app looks up each team's most recent feature values (built from matches played before that point).
+- A tuned XGBoost model predicts **Home Win / Draw / Away Win**.
+- The probabilities are shown as a bar chart.
 
 ---
 
-## 🔧 Features Engineered
+## Features engineered
 
-All features were built from raw match data — no pre-built stat sources:
+All features are built chronologically from raw match results. For each match, every feature uses **only matches played before it**, so the model never sees the result it is predicting. The code is in `main.py`.
 
 | Feature | Description |
 |---|---|
-| `home_team_total_wins` | Cumulative wins for home team up to match date |
-| `away_team_total_wins` | Cumulative wins for away team up to match date |
-| `home_team_win_at_home` | Home team's wins when playing at home |
-| `home_team_win_away` | Home team's wins when playing away |
-| `away_team_win_at_home` | Away team's wins when playing at home |
-| `away_team_win_away` | Away team's wins when playing away |
-| `home_team_last5_goals_scored` | Rolling avg goals scored over last 5 matches |
-| `home_team_last5_goals_conceded` | Rolling avg goals conceded over last 5 matches |
-| `away_team_last5_goals_scored` | Rolling avg goals scored over last 5 matches |
-| `away_team_last5_goals_conceded` | Rolling avg goals conceded over last 5 matches |
+| `home_team_total_wins` / `away_team_total_wins` | Wins so far this season, before the match |
+| `home_team_win_at_home` | Home team's wins at home so far |
+| `home_team_win_away` | Home team's wins away so far |
+| `away_team_win_at_home` | Away team's wins at home so far |
+| `away_team_win_away` | Away team's wins away so far |
+| `home_team_last5_goals_scored` / `away_team_last5_goals_scored` | Average goals scored over the team's last 5 matches |
+| `home_team_last5_goals_conceded` / `away_team_last5_goals_conceded` | Average goals conceded over the team's last 5 matches |
 
 ---
 
-## 🤖 Models and Results
+## Results (held-out test set)
 
-Three classifiers trained and compared:
+- Data: 380 matches (2024/25 season). **Random 80/20 split, stratified, `random_state=42`: 76 test matches.**
+- Model: XGBoost tuned with `GridSearchCV` (scoring: macro F1, balanced sample weights).
 
-| Model | Accuracy | Macro F1 |
-|---|---|---|
-| Logistic Regression | 51.3% | 0.44 |
-| Random Forest | 48.7% | 0.42 |
-| XGBoost (tuned) | 53.0% | 0.45 |
+| Metric | Value |
+|---|---|
+| Accuracy | **48.7%** (about ±11 points at 95%, because only 76 matches) |
+| Macro F1 | **0.447** |
+| Baseline: always predict Home Win | 40.8% accuracy |
 
-**XGBoost** selected as best performer, tuned with GridSearchCV.
+Per class (test set):
 
-> Note: A naive model always predicting Home Win achieves 41% accuracy. 53% with honest draw prediction is a meaningful result for a single-season dataset with no player-level data.
+| Class | Precision | Recall | F1 |
+|---|---|---|---|
+| Away Win | 0.54 | 0.50 | 0.52 |
+| Draw | 0.29 | 0.21 | 0.24 |
+| Home Win | 0.53 | 0.65 | 0.58 |
 
----
+How to read this: the model beats the always-Home baseline by about 8 points, but with 76 test matches that gap is within the margin of error, so this is **a weak signal, not a proven edge**. It struggles most with draws, which is common in football prediction. With one season of data and no player-level features, that is the expected result, and it is why the project reports macro F1 and not only accuracy.
 
-## 💡 Key Finding
-
-**`home_team_last5_goals_conceded`** was the strongest predictor of match outcomes across all 10 features.
-
-Recent defensive form matters more than attacking output — consistent with what football fans already know:
-
-> *"You win games with strikers, but you win championships with defenders."*
-
-The data agreed.
+Reproduce these numbers: `python evaluate.py` (uses the saved `model.pkl` and the same split as training).
 
 ---
 
-## ⚠️ Why Macro F1, Not Accuracy
+## Which features matter
 
-A model that ignores draws entirely achieves 41% accuracy on this dataset. Optimizing for accuracy produces a model that never predicts draws — inflating the score while hiding a fundamental failure.
+Feature importance of the tuned XGBoost (`python evaluate.py` prints all ten):
 
-**Macro F1** penalizes equally across all three outcome classes (H/D/A), exposing models that sacrifice minority class performance for headline numbers.
+| Feature | Importance |
+|---|---|
+| `home_team_last5_goals_conceded` | 0.138 |
+| `home_team_win_away` | 0.128 |
+| `away_team_last5_goals_scored` | 0.107 |
+| `away_team_win_at_home` | 0.098 |
+| `away_team_total_wins` | 0.097 |
+
+The home team's recent goals conceded ranks first, but only narrowly: the ten importances range from 0.079 to 0.138, so no single feature dominates. For the home team, defensive form (goals conceded, 0.138) ranks above attacking form (goals scored, 0.088), while for the away team it is the other way round (scored 0.107, conceded 0.092). With 380 matches, these rankings are suggestive, not conclusive, and importance does not show cause.
 
 ---
 
-## 🛠️ Tech Stack
+## Why macro F1, not only accuracy
 
-- **Python** · **Pandas** · **NumPy**
-- **Scikit-learn** · **XGBoost**
-- **Streamlit** · **Plotly**
-- **Joblib** · **Git/GitHub**
+A model that never predicts draws can still reach about 41% accuracy here, so accuracy alone hides a failure. Macro F1 averages the three classes equally, so a model that ignores draws is penalised.
 
 ---
 
-## ▶️ Run Locally
+## Limitations
+
+- One season, 380 matches, 76 in the test set: results are noisy.
+- The train/test split is random, not by date. Features use only past matches, but the model is trained on some later matches than it is tested on. A time-based split would be stricter.
+- No player-level data (injuries, lineups, expected goals).
+
+---
+
+## Tech stack
+
+Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, Joblib, Git/GitHub.
+
+---
+
+## Run locally
 
 ```bash
 git clone https://github.com/amiralialzd/premier-league-analytics
@@ -96,14 +107,16 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📊 Data Source
-
-- **Source:** FBref via `soccerdata` Python library
-- **Season:** 2024/25 Premier League
-- **Matches:** 380 total
+To re-evaluate the saved model: `python evaluate.py`.
+To retrain (this overwrites `model.pkl`, and results may differ slightly from the numbers above): `pip install matplotlib` and `python main.py`.
 
 ---
 
-*Built by [Amirali Alizadeh](https://linkedin.com/in/amiralializadeh) · Part of LLM/Applied AI Engineer Roadmap*
+## Data
+
+- Source: FBref, collected with the `soccerdata` Python library.
+- Season: 2024/25 Premier League, 380 matches.
+
+---
+
+*Built by [Amirali Alizadeh](https://linkedin.com/in/amiralializadeh)*

@@ -1,0 +1,381 @@
+,game,week,day,date,home_team,away_team,result,home_goals,away_goals,matches,home_last5,away_last5,away_form,home_form,home_team_total_wins,away_team_total_wins,home_team_win_at_home,away_team_win_away
+0,2024-08-16 Manchester Utd-Fulham,1,Fri,2024-08-16,Manchester Utd,Fulham,H,1,0,Manchester UtdvsFulham,[],[],0.0,0.0,0,0,0,0
+1,2024-08-17 Arsenal-Wolves,1,Sat,2024-08-17,Arsenal,Wolves,H,2,0,ArsenalvsWolves,[],[],0.0,0.0,0,0,0,0
+2,2024-08-17 Everton-Brighton,1,Sat,2024-08-17,Everton,Brighton,A,0,3,EvertonvsBrighton,[],[],0.0,0.0,0,0,0,0
+3,2024-08-17 Ipswich Town-Liverpool,1,Sat,2024-08-17,Ipswich Town,Liverpool,A,0,2,Ipswich TownvsLiverpool,[],[],0.0,0.0,0,0,0,0
+4,2024-08-17 Newcastle United-Southampton,1,Sat,2024-08-17,Newcastle United,Southampton,H,1,0,Newcastle UnitedvsSouthampton,[],[],0.0,0.0,0,0,0,0
+5,2024-08-17 Nottingham Forest-Bournemouth,1,Sat,2024-08-17,Nottingham Forest,Bournemouth,D,1,1,Nottingham ForestvsBournemouth,[],[],0.0,0.0,0,0,0,0
+6,2024-08-17 West Ham United-Aston Villa,1,Sat,2024-08-17,West Ham United,Aston Villa,A,1,2,West Ham UnitedvsAston Villa,[],[],0.0,0.0,0,0,0,0
+7,2024-08-18 Brentford-Crystal Palace,1,Sun,2024-08-18,Brentford,Crystal Palace,H,2,1,BrentfordvsCrystal Palace,[],[],0.0,0.0,0,0,0,0
+8,2024-08-18 Chelsea-Manchester City,1,Sun,2024-08-18,Chelsea,Manchester City,A,0,2,ChelseavsManchester City,[],[],0.0,0.0,0,0,0,0
+9,2024-08-19 Leicester City-Tottenham Hotspur,1,Mon,2024-08-19,Leicester City,Tottenham Hotspur,D,1,1,Leicester CityvsTottenham Hotspur,[],[],0.0,0.0,0,0,0,0
+10,2024-08-24 Aston Villa-Arsenal,2,Sat,2024-08-24,Aston Villa,Arsenal,A,0,2,Aston VillavsArsenal,['W'],['W'],1.0,1.0,0,0,0,0
+11,2024-08-24 Brighton-Manchester Utd,2,Sat,2024-08-24,Brighton,Manchester Utd,H,2,1,BrightonvsManchester Utd,['W'],['W'],1.0,1.0,0,0,0,0
+12,2024-08-24 Crystal Palace-West Ham United,2,Sat,2024-08-24,Crystal Palace,West Ham United,A,0,2,Crystal PalacevsWest Ham United,['L'],['L'],0.0,0.0,0,0,0,0
+13,2024-08-24 Fulham-Leicester City,2,Sat,2024-08-24,Fulham,Leicester City,H,2,1,FulhamvsLeicester City,['L'],['D'],0.5,0.0,0,0,0,0
+14,2024-08-24 Manchester City-Ipswich Town,2,Sat,2024-08-24,Manchester City,Ipswich Town,H,4,1,Manchester CityvsIpswich Town,['W'],['L'],0.0,1.0,0,0,0,0
+15,2024-08-24 Southampton-Nottingham Forest,2,Sat,2024-08-24,Southampton,Nottingham Forest,A,0,1,SouthamptonvsNottingham Forest,['L'],['D'],0.5,0.0,0,0,0,0
+16,2024-08-24 Tottenham Hotspur-Everton,2,Sat,2024-08-24,Tottenham Hotspur,Everton,H,4,0,Tottenham HotspurvsEverton,['D'],['L'],0.0,0.5,0,0,0,0
+17,2024-08-25 Bournemouth-Newcastle United,2,Sun,2024-08-25,Bournemouth,Newcastle United,D,1,1,BournemouthvsNewcastle United,['D'],['W'],1.0,0.5,0,0,0,0
+18,2024-08-25 Liverpool-Brentford,2,Sun,2024-08-25,Liverpool,Brentford,H,2,0,LiverpoolvsBrentford,['W'],['W'],1.0,1.0,0,0,0,0
+19,2024-08-25 Wolves-Chelsea,2,Sun,2024-08-25,Wolves,Chelsea,A,2,6,WolvesvsChelsea,['L'],['L'],0.0,0.0,0,0,0,0
+20,2024-08-31 Arsenal-Brighton,3,Sat,2024-08-31,Arsenal,Brighton,D,1,1,ArsenalvsBrighton,"['W', 'W']","['W', 'W']",1.0,1.0,1,1,1,1
+21,2024-08-31 Brentford-Southampton,3,Sat,2024-08-31,Brentford,Southampton,H,3,1,BrentfordvsSouthampton,"['W', 'L']","['L', 'L']",0.0,0.5,1,0,1,0
+22,2024-08-31 Everton-Bournemouth,3,Sat,2024-08-31,Everton,Bournemouth,A,2,3,EvertonvsBournemouth,"['L', 'L']","['D', 'D']",0.5,0.0,0,0,0,0
+23,2024-08-31 Ipswich Town-Fulham,3,Sat,2024-08-31,Ipswich Town,Fulham,D,1,1,Ipswich TownvsFulham,"['L', 'L']","['L', 'W']",0.5,0.0,0,0,0,0
+24,2024-08-31 Leicester City-Aston Villa,3,Sat,2024-08-31,Leicester City,Aston Villa,A,1,2,Leicester CityvsAston Villa,"['D', 'L']","['W', 'L']",0.5,0.25,0,1,0,1
+25,2024-08-31 Nottingham Forest-Wolves,3,Sat,2024-08-31,Nottingham Forest,Wolves,D,1,1,Nottingham ForestvsWolves,"['D', 'W']","['L', 'L']",0.0,0.75,0,0,0,0
+26,2024-08-31 West Ham United-Manchester City,3,Sat,2024-08-31,West Ham United,Manchester City,A,1,3,West Ham UnitedvsManchester City,"['L', 'W']","['W', 'W']",1.0,0.5,0,1,0,1
+27,2024-09-01 Chelsea-Crystal Palace,3,Sun,2024-09-01,Chelsea,Crystal Palace,D,1,1,ChelseavsCrystal Palace,"['L', 'W']","['L', 'L']",0.0,0.5,0,0,0,0
+28,2024-09-01 Manchester Utd-Liverpool,3,Sun,2024-09-01,Manchester Utd,Liverpool,A,0,3,Manchester UtdvsLiverpool,"['W', 'L']","['W', 'W']",1.0,0.5,1,1,1,1
+29,2024-09-01 Newcastle United-Tottenham Hotspur,3,Sun,2024-09-01,Newcastle United,Tottenham Hotspur,H,2,1,Newcastle UnitedvsTottenham Hotspur,"['W', 'D']","['D', 'W']",0.75,0.75,1,0,1,0
+30,2024-09-14 Aston Villa-Everton,4,Sat,2024-09-14,Aston Villa,Everton,H,3,2,Aston VillavsEverton,"['W', 'L', 'W']","['L', 'L', 'L']",0.0,0.6666666666666666,0,0,0,0
+31,2024-09-14 Bournemouth-Chelsea,4,Sat,2024-09-14,Bournemouth,Chelsea,A,0,1,BournemouthvsChelsea,"['D', 'D', 'W']","['L', 'W', 'D']",0.5,0.6666666666666666,0,1,0,1
+32,2024-09-14 Brighton-Ipswich Town,4,Sat,2024-09-14,Brighton,Ipswich Town,D,0,0,BrightonvsIpswich Town,"['W', 'W', 'D']","['L', 'L', 'D']",0.16666666666666666,0.8333333333333334,1,0,1,0
+33,2024-09-14 Crystal Palace-Leicester City,4,Sat,2024-09-14,Crystal Palace,Leicester City,D,2,2,Crystal PalacevsLeicester City,"['L', 'L', 'D']","['D', 'L', 'L']",0.16666666666666666,0.16666666666666666,0,0,0,0
+34,2024-09-14 Fulham-West Ham United,4,Sat,2024-09-14,Fulham,West Ham United,D,1,1,FulhamvsWest Ham United,"['L', 'W', 'D']","['L', 'W', 'L']",0.3333333333333333,0.5,1,1,1,1
+35,2024-09-14 Liverpool-Nottingham Forest,4,Sat,2024-09-14,Liverpool,Nottingham Forest,A,0,1,LiverpoolvsNottingham Forest,"['W', 'W', 'W']","['D', 'W', 'D']",0.6666666666666666,1.0,1,1,1,1
+36,2024-09-14 Manchester City-Brentford,4,Sat,2024-09-14,Manchester City,Brentford,H,2,1,Manchester CityvsBrentford,"['W', 'W', 'W']","['W', 'L', 'W']",0.6666666666666666,1.0,1,0,1,0
+37,2024-09-14 Southampton-Manchester Utd,4,Sat,2024-09-14,Southampton,Manchester Utd,A,0,3,SouthamptonvsManchester Utd,"['L', 'L', 'L']","['W', 'L', 'L']",0.3333333333333333,0.0,0,0,0,0
+38,2024-09-15 Tottenham Hotspur-Arsenal,4,Sun,2024-09-15,Tottenham Hotspur,Arsenal,A,0,1,Tottenham HotspurvsArsenal,"['D', 'W', 'L']","['W', 'W', 'D']",0.8333333333333334,0.5,1,1,1,1
+39,2024-09-15 Wolves-Newcastle United,4,Sun,2024-09-15,Wolves,Newcastle United,A,1,2,WolvesvsNewcastle United,"['L', 'L', 'D']","['W', 'D', 'W']",0.8333333333333334,0.16666666666666666,0,0,0,0
+40,2024-09-21 Aston Villa-Wolves,5,Sat,2024-09-21,Aston Villa,Wolves,H,3,1,Aston VillavsWolves,"['W', 'L', 'W', 'W']","['L', 'L', 'D', 'L']",0.125,0.75,1,0,1,0
+41,2024-09-21 Crystal Palace-Manchester Utd,5,Sat,2024-09-21,Crystal Palace,Manchester Utd,D,0,0,Crystal PalacevsManchester Utd,"['L', 'L', 'D', 'D']","['W', 'L', 'L', 'W']",0.5,0.25,0,1,0,1
+42,2024-09-21 Fulham-Newcastle United,5,Sat,2024-09-21,Fulham,Newcastle United,H,3,1,FulhamvsNewcastle United,"['L', 'W', 'D', 'D']","['W', 'D', 'W', 'W']",0.875,0.5,1,1,1,1
+43,2024-09-21 Leicester City-Everton,5,Sat,2024-09-21,Leicester City,Everton,D,1,1,Leicester CityvsEverton,"['D', 'L', 'L', 'D']","['L', 'L', 'L', 'L']",0.0,0.25,0,0,0,0
+44,2024-09-21 Liverpool-Bournemouth,5,Sat,2024-09-21,Liverpool,Bournemouth,H,3,0,LiverpoolvsBournemouth,"['W', 'W', 'W', 'L']","['D', 'D', 'W', 'L']",0.5,0.75,1,1,1,1
+45,2024-09-21 Southampton-Ipswich Town,5,Sat,2024-09-21,Southampton,Ipswich Town,D,1,1,SouthamptonvsIpswich Town,"['L', 'L', 'L', 'L']","['L', 'L', 'D', 'D']",0.25,0.0,0,0,0,0
+46,2024-09-21 Tottenham Hotspur-Brentford,5,Sat,2024-09-21,Tottenham Hotspur,Brentford,H,3,1,Tottenham HotspurvsBrentford,"['D', 'W', 'L', 'L']","['W', 'L', 'W', 'L']",0.5,0.375,1,0,1,0
+47,2024-09-21 West Ham United-Chelsea,5,Sat,2024-09-21,West Ham United,Chelsea,A,0,3,West Ham UnitedvsChelsea,"['L', 'W', 'L', 'D']","['L', 'W', 'D', 'W']",0.625,0.375,0,2,0,2
+48,2024-09-22 Brighton-Nottingham Forest,5,Sun,2024-09-22,Brighton,Nottingham Forest,D,2,2,BrightonvsNottingham Forest,"['W', 'W', 'D', 'D']","['D', 'W', 'D', 'W']",0.75,0.75,1,2,1,2
+49,2024-09-22 Manchester City-Arsenal,5,Sun,2024-09-22,Manchester City,Arsenal,D,2,2,Manchester CityvsArsenal,"['W', 'W', 'W', 'W']","['W', 'W', 'D', 'W']",0.875,1.0,2,2,2,2
+50,2024-09-28 Arsenal-Leicester City,6,Sat,2024-09-28,Arsenal,Leicester City,H,4,2,ArsenalvsLeicester City,"['W', 'W', 'D', 'W', 'D']","['D', 'L', 'L', 'D', 'D']",0.3,0.8,1,0,1,0
+51,2024-09-28 Brentford-West Ham United,6,Sat,2024-09-28,Brentford,West Ham United,D,1,1,BrentfordvsWest Ham United,"['W', 'L', 'W', 'L', 'L']","['L', 'W', 'L', 'D', 'L']",0.3,0.4,2,1,2,1
+52,2024-09-28 Chelsea-Brighton,6,Sat,2024-09-28,Chelsea,Brighton,H,4,2,ChelseavsBrighton,"['L', 'W', 'D', 'W', 'W']","['W', 'W', 'D', 'D', 'D']",0.7,0.7,0,1,0,1
+53,2024-09-28 Everton-Crystal Palace,6,Sat,2024-09-28,Everton,Crystal Palace,H,2,1,EvertonvsCrystal Palace,"['L', 'L', 'L', 'L', 'D']","['L', 'L', 'D', 'D', 'D']",0.3,0.1,0,0,0,0
+54,2024-09-28 Newcastle United-Manchester City,6,Sat,2024-09-28,Newcastle United,Manchester City,D,1,1,Newcastle UnitedvsManchester City,"['W', 'D', 'W', 'W', 'L']","['W', 'W', 'W', 'W', 'D']",0.9,0.7,2,2,2,2
+55,2024-09-28 Nottingham Forest-Fulham,6,Sat,2024-09-28,Nottingham Forest,Fulham,A,0,1,Nottingham ForestvsFulham,"['D', 'W', 'D', 'W', 'D']","['L', 'W', 'D', 'D', 'W']",0.6,0.7,0,0,0,0
+56,2024-09-28 Wolves-Liverpool,6,Sat,2024-09-28,Wolves,Liverpool,A,1,2,WolvesvsLiverpool,"['L', 'L', 'D', 'L', 'L']","['W', 'W', 'W', 'L', 'W']",0.8,0.1,0,2,0,2
+57,2024-09-29 Ipswich Town-Aston Villa,6,Sun,2024-09-29,Ipswich Town,Aston Villa,D,2,2,Ipswich TownvsAston Villa,"['L', 'L', 'D', 'D', 'D']","['W', 'L', 'W', 'W', 'W']",0.8,0.3,0,2,0,2
+58,2024-09-29 Manchester Utd-Tottenham Hotspur,6,Sun,2024-09-29,Manchester Utd,Tottenham Hotspur,A,0,3,Manchester UtdvsTottenham Hotspur,"['W', 'L', 'L', 'W', 'D']","['D', 'W', 'L', 'L', 'W']",0.5,0.5,1,0,1,0
+59,2024-09-30 Bournemouth-Southampton,6,Mon,2024-09-30,Bournemouth,Southampton,H,3,1,BournemouthvsSouthampton,"['D', 'D', 'W', 'L', 'L']","['L', 'L', 'L', 'L', 'D']",0.1,0.4,0,0,0,0
+60,2024-10-05 Arsenal-Southampton,7,Sat,2024-10-05,Arsenal,Southampton,H,3,1,ArsenalvsSouthampton,"['W', 'D', 'W', 'D', 'W']","['L', 'L', 'L', 'D', 'L']",0.1,0.8,2,0,2,0
+61,2024-10-05 Brentford-Wolves,7,Sat,2024-10-05,Brentford,Wolves,H,5,3,BrentfordvsWolves,"['L', 'W', 'L', 'L', 'D']","['L', 'D', 'L', 'L', 'L']",0.1,0.3,2,0,2,0
+62,2024-10-05 Crystal Palace-Liverpool,7,Sat,2024-10-05,Crystal Palace,Liverpool,A,0,1,Crystal PalacevsLiverpool,"['L', 'D', 'D', 'D', 'L']","['W', 'W', 'L', 'W', 'W']",0.8,0.3,0,3,0,3
+63,2024-10-05 Everton-Newcastle United,7,Sat,2024-10-05,Everton,Newcastle United,D,0,0,EvertonvsNewcastle United,"['L', 'L', 'L', 'D', 'W']","['D', 'W', 'W', 'L', 'D']",0.6,0.3,1,1,1,1
+64,2024-10-05 Leicester City-Bournemouth,7,Sat,2024-10-05,Leicester City,Bournemouth,H,1,0,Leicester CityvsBournemouth,"['L', 'L', 'D', 'D', 'L']","['D', 'W', 'L', 'L', 'W']",0.5,0.2,0,1,0,1
+65,2024-10-05 Manchester City-Fulham,7,Sat,2024-10-05,Manchester City,Fulham,H,3,2,Manchester CityvsFulham,"['W', 'W', 'W', 'D', 'D']","['W', 'D', 'D', 'W', 'W']",0.8,0.8,2,1,2,1
+66,2024-10-05 West Ham United-Ipswich Town,7,Sat,2024-10-05,West Ham United,Ipswich Town,H,4,1,West Ham UnitedvsIpswich Town,"['W', 'L', 'D', 'L', 'D']","['L', 'D', 'D', 'D', 'D']",0.4,0.4,0,0,0,0
+67,2024-10-06 Aston Villa-Manchester Utd,7,Sun,2024-10-06,Aston Villa,Manchester Utd,D,0,0,Aston VillavsManchester Utd,"['L', 'W', 'W', 'W', 'D']","['L', 'L', 'W', 'D', 'L']",0.3,0.7,2,1,2,1
+68,2024-10-06 Brighton-Tottenham Hotspur,7,Sun,2024-10-06,Brighton,Tottenham Hotspur,H,3,2,BrightonvsTottenham Hotspur,"['W', 'D', 'D', 'D', 'L']","['W', 'L', 'L', 'W', 'W']",0.6,0.5,1,1,1,1
+69,2024-10-06 Chelsea-Nottingham Forest,7,Sun,2024-10-06,Chelsea,Nottingham Forest,D,1,1,ChelseavsNottingham Forest,"['W', 'D', 'W', 'W', 'W']","['W', 'D', 'W', 'D', 'L']",0.6,0.9,1,2,1,2
+70,2024-10-19 Bournemouth-Arsenal,8,Sat,2024-10-19,Bournemouth,Arsenal,H,2,0,BournemouthvsArsenal,"['W', 'L', 'L', 'W', 'L']","['D', 'W', 'D', 'W', 'W']",0.8,0.4,1,2,1,2
+71,2024-10-19 Fulham-Aston Villa,8,Sat,2024-10-19,Fulham,Aston Villa,A,1,3,FulhamvsAston Villa,"['D', 'D', 'W', 'W', 'L']","['W', 'W', 'W', 'D', 'D']",0.8,0.6,2,2,2,2
+72,2024-10-19 Ipswich Town-Everton,8,Sat,2024-10-19,Ipswich Town,Everton,A,0,2,Ipswich TownvsEverton,"['D', 'D', 'D', 'D', 'L']","['L', 'L', 'D', 'W', 'D']",0.4,0.4,0,0,0,0
+73,2024-10-19 Manchester Utd-Brentford,8,Sat,2024-10-19,Manchester Utd,Brentford,H,2,1,Manchester UtdvsBrentford,"['L', 'W', 'D', 'L', 'D']","['W', 'L', 'L', 'D', 'W']",0.5,0.4,1,0,1,0
+74,2024-10-19 Newcastle United-Brighton,8,Sat,2024-10-19,Newcastle United,Brighton,A,0,1,Newcastle UnitedvsBrighton,"['W', 'W', 'L', 'D', 'D']","['D', 'D', 'D', 'L', 'W']",0.5,0.6,2,1,2,1
+75,2024-10-19 Southampton-Leicester City,8,Sat,2024-10-19,Southampton,Leicester City,A,2,3,SouthamptonvsLeicester City,"['L', 'L', 'D', 'L', 'L']","['L', 'D', 'D', 'L', 'W']",0.4,0.1,0,0,0,0
+76,2024-10-19 Tottenham Hotspur-West Ham United,8,Sat,2024-10-19,Tottenham Hotspur,West Ham United,H,4,1,Tottenham HotspurvsWest Ham United,"['L', 'L', 'W', 'W', 'L']","['L', 'D', 'L', 'D', 'W']",0.4,0.4,2,1,2,1
+77,2024-10-20 Liverpool-Chelsea,8,Sun,2024-10-20,Liverpool,Chelsea,H,2,1,LiverpoolvsChelsea,"['W', 'L', 'W', 'W', 'W']","['D', 'W', 'W', 'W', 'D']",0.8,0.8,2,3,2,3
+78,2024-10-20 Wolves-Manchester City,8,Sun,2024-10-20,Wolves,Manchester City,A,1,2,WolvesvsManchester City,"['D', 'L', 'L', 'L', 'L']","['W', 'W', 'D', 'D', 'W']",0.8,0.1,0,2,0,2
+79,2024-10-21 Nottingham Forest-Crystal Palace,8,Mon,2024-10-21,Nottingham Forest,Crystal Palace,H,1,0,Nottingham ForestvsCrystal Palace,"['D', 'W', 'D', 'L', 'D']","['D', 'D', 'D', 'L', 'L']",0.3,0.5,0,0,0,0
+80,2024-10-25 Leicester City-Nottingham Forest,9,Fri,2024-10-25,Leicester City,Nottingham Forest,A,1,3,Leicester CityvsNottingham Forest,"['D', 'D', 'L', 'W', 'W']","['W', 'D', 'L', 'D', 'W']",0.6,0.6,1,2,1,2
+81,2024-10-26 Aston Villa-Bournemouth,9,Sat,2024-10-26,Aston Villa,Bournemouth,D,1,1,Aston VillavsBournemouth,"['W', 'W', 'D', 'D', 'W']","['L', 'L', 'W', 'L', 'W']",0.4,0.8,2,1,2,1
+82,2024-10-26 Brentford-Ipswich Town,9,Sat,2024-10-26,Brentford,Ipswich Town,H,4,3,BrentfordvsIpswich Town,"['L', 'L', 'D', 'W', 'L']","['D', 'D', 'D', 'L', 'L']",0.3,0.3,3,0,3,0
+83,2024-10-26 Brighton-Wolves,9,Sat,2024-10-26,Brighton,Wolves,D,2,2,BrightonvsWolves,"['D', 'D', 'L', 'W', 'W']","['L', 'L', 'L', 'L', 'L']",0.0,0.6,2,0,2,0
+84,2024-10-26 Everton-Fulham,9,Sat,2024-10-26,Everton,Fulham,D,1,1,EvertonvsFulham,"['L', 'D', 'W', 'D', 'W']","['D', 'W', 'W', 'L', 'L']",0.5,0.6,1,1,1,1
+85,2024-10-26 Manchester City-Southampton,9,Sat,2024-10-26,Manchester City,Southampton,H,1,0,Manchester CityvsSouthampton,"['W', 'D', 'D', 'W', 'W']","['L', 'D', 'L', 'L', 'L']",0.1,0.8,3,0,3,0
+86,2024-10-27 Arsenal-Liverpool,9,Sun,2024-10-27,Arsenal,Liverpool,D,2,2,ArsenalvsLiverpool,"['W', 'D', 'W', 'W', 'L']","['L', 'W', 'W', 'W', 'W']",0.8,0.7,3,4,3,4
+87,2024-10-27 Chelsea-Newcastle United,9,Sun,2024-10-27,Chelsea,Newcastle United,H,2,1,ChelseavsNewcastle United,"['W', 'W', 'W', 'D', 'L']","['W', 'L', 'D', 'D', 'L']",0.4,0.7,1,1,1,1
+88,2024-10-27 Crystal Palace-Tottenham Hotspur,9,Sun,2024-10-27,Crystal Palace,Tottenham Hotspur,H,1,0,Crystal PalacevsTottenham Hotspur,"['D', 'D', 'L', 'L', 'L']","['L', 'W', 'W', 'L', 'W']",0.6,0.2,0,1,0,1
+89,2024-10-27 West Ham United-Manchester Utd,9,Sun,2024-10-27,West Ham United,Manchester Utd,H,2,1,West Ham UnitedvsManchester Utd,"['D', 'L', 'D', 'W', 'L']","['W', 'D', 'L', 'D', 'W']",0.6,0.4,1,1,1,1
+90,2024-11-02 Bournemouth-Manchester City,10,Sat,2024-11-02,Bournemouth,Manchester City,H,2,1,BournemouthvsManchester City,"['L', 'W', 'L', 'W', 'D']","['D', 'D', 'W', 'W', 'W']",0.8,0.5,2,3,2,3
+91,2024-11-02 Ipswich Town-Leicester City,10,Sat,2024-11-02,Ipswich Town,Leicester City,D,1,1,Ipswich TownvsLeicester City,"['D', 'D', 'L', 'L', 'L']","['D', 'L', 'W', 'W', 'L']",0.5,0.2,0,1,0,1
+92,2024-11-02 Liverpool-Brighton,10,Sat,2024-11-02,Liverpool,Brighton,H,2,1,LiverpoolvsBrighton,"['W', 'W', 'W', 'W', 'D']","['D', 'L', 'W', 'W', 'D']",0.6,0.9,3,2,3,2
+93,2024-11-02 Newcastle United-Arsenal,10,Sat,2024-11-02,Newcastle United,Arsenal,H,1,0,Newcastle UnitedvsArsenal,"['L', 'D', 'D', 'L', 'L']","['D', 'W', 'W', 'L', 'D']",0.6,0.2,2,2,2,2
+94,2024-11-02 Nottingham Forest-West Ham United,10,Sat,2024-11-02,Nottingham Forest,West Ham United,H,3,0,Nottingham ForestvsWest Ham United,"['D', 'L', 'D', 'W', 'W']","['L', 'D', 'W', 'L', 'W']",0.5,0.6,1,1,1,1
+95,2024-11-02 Southampton-Everton,10,Sat,2024-11-02,Southampton,Everton,H,1,0,SouthamptonvsEverton,"['D', 'L', 'L', 'L', 'L']","['D', 'W', 'D', 'W', 'D']",0.7,0.1,0,1,0,1
+96,2024-11-02 Wolves-Crystal Palace,10,Sat,2024-11-02,Wolves,Crystal Palace,D,2,2,WolvesvsCrystal Palace,"['L', 'L', 'L', 'L', 'D']","['D', 'L', 'L', 'L', 'W']",0.3,0.1,0,0,0,0
+97,2024-11-03 Manchester Utd-Chelsea,10,Sun,2024-11-03,Manchester Utd,Chelsea,D,1,1,Manchester UtdvsChelsea,"['D', 'L', 'D', 'W', 'L']","['W', 'W', 'D', 'L', 'W']",0.7,0.4,2,3,2,3
+98,2024-11-03 Tottenham Hotspur-Aston Villa,10,Sun,2024-11-03,Tottenham Hotspur,Aston Villa,H,4,1,Tottenham HotspurvsAston Villa,"['W', 'W', 'L', 'W', 'L']","['W', 'D', 'D', 'W', 'D']",0.7,0.6,3,3,3,3
+99,2024-11-04 Fulham-Brentford,10,Mon,2024-11-04,Fulham,Brentford,H,2,1,FulhamvsBrentford,"['W', 'W', 'L', 'L', 'D']","['L', 'D', 'W', 'L', 'W']",0.5,0.5,2,0,2,0
+100,2024-11-09 Brentford-Bournemouth,11,Sat,2024-11-09,Brentford,Bournemouth,H,3,2,BrentfordvsBournemouth,"['D', 'W', 'L', 'W', 'L']","['W', 'L', 'W', 'D', 'W']",0.7,0.5,4,1,4,1
+101,2024-11-09 Brighton-Manchester City,11,Sat,2024-11-09,Brighton,Manchester City,H,2,1,BrightonvsManchester City,"['L', 'W', 'W', 'D', 'L']","['D', 'W', 'W', 'W', 'L']",0.7,0.5,2,3,2,3
+102,2024-11-09 Crystal Palace-Fulham,11,Sat,2024-11-09,Crystal Palace,Fulham,A,0,2,Crystal PalacevsFulham,"['L', 'L', 'L', 'W', 'D']","['W', 'L', 'L', 'D', 'W']",0.5,0.3,1,1,1,1
+103,2024-11-09 Liverpool-Aston Villa,11,Sat,2024-11-09,Liverpool,Aston Villa,H,2,0,LiverpoolvsAston Villa,"['W', 'W', 'W', 'D', 'W']","['D', 'D', 'W', 'D', 'L']",0.5,0.9,4,3,4,3
+104,2024-11-09 West Ham United-Everton,11,Sat,2024-11-09,West Ham United,Everton,D,0,0,West Ham UnitedvsEverton,"['D', 'W', 'L', 'W', 'L']","['W', 'D', 'W', 'D', 'L']",0.6,0.5,2,1,2,1
+105,2024-11-09 Wolves-Southampton,11,Sat,2024-11-09,Wolves,Southampton,H,2,0,WolvesvsSouthampton,"['L', 'L', 'L', 'D', 'D']","['L', 'L', 'L', 'L', 'W']",0.2,0.2,0,0,0,0
+106,2024-11-10 Chelsea-Arsenal,11,Sun,2024-11-10,Chelsea,Arsenal,D,1,1,ChelseavsArsenal,"['W', 'D', 'L', 'W', 'D']","['W', 'W', 'L', 'D', 'L']",0.5,0.6,2,2,2,2
+107,2024-11-10 Manchester Utd-Leicester City,11,Sun,2024-11-10,Manchester Utd,Leicester City,H,3,0,Manchester UtdvsLeicester City,"['L', 'D', 'W', 'L', 'D']","['L', 'W', 'W', 'L', 'D']",0.5,0.4,2,1,2,1
+108,2024-11-10 Nottingham Forest-Newcastle United,11,Sun,2024-11-10,Nottingham Forest,Newcastle United,A,1,3,Nottingham ForestvsNewcastle United,"['L', 'D', 'W', 'W', 'W']","['D', 'D', 'L', 'L', 'W']",0.4,0.7,2,1,2,1
+109,2024-11-10 Tottenham Hotspur-Ipswich Town,11,Sun,2024-11-10,Tottenham Hotspur,Ipswich Town,A,1,2,Tottenham HotspurvsIpswich Town,"['W', 'L', 'W', 'L', 'W']","['D', 'L', 'L', 'L', 'D']",0.2,0.6,4,0,4,0
+110,2024-11-23 Arsenal-Nottingham Forest,12,Sat,2024-11-23,Arsenal,Nottingham Forest,H,3,0,ArsenalvsNottingham Forest,"['W', 'L', 'D', 'L', 'D']","['D', 'W', 'W', 'W', 'L']",0.7,0.4,3,3,3,3
+111,2024-11-23 Aston Villa-Crystal Palace,12,Sat,2024-11-23,Aston Villa,Crystal Palace,D,2,2,Aston VillavsCrystal Palace,"['D', 'W', 'D', 'L', 'L']","['L', 'L', 'W', 'D', 'L']",0.3,0.4,2,0,2,0
+112,2024-11-23 Bournemouth-Brighton,12,Sat,2024-11-23,Bournemouth,Brighton,A,1,2,BournemouthvsBrighton,"['L', 'W', 'D', 'W', 'L']","['W', 'W', 'D', 'L', 'W']",0.7,0.5,3,2,3,2
+113,2024-11-23 Everton-Brentford,12,Sat,2024-11-23,Everton,Brentford,D,0,0,EvertonvsBrentford,"['D', 'W', 'D', 'L', 'D']","['W', 'L', 'W', 'L', 'W']",0.6,0.5,1,0,1,0
+114,2024-11-23 Fulham-Wolves,12,Sat,2024-11-23,Fulham,Wolves,A,1,4,FulhamvsWolves,"['L', 'L', 'D', 'W', 'W']","['L', 'L', 'D', 'D', 'W']",0.4,0.5,3,0,3,0
+115,2024-11-23 Leicester City-Chelsea,12,Sat,2024-11-23,Leicester City,Chelsea,A,1,2,Leicester CityvsChelsea,"['W', 'W', 'L', 'D', 'L']","['D', 'L', 'W', 'D', 'D']",0.5,0.5,1,3,1,3
+116,2024-11-23 Manchester City-Tottenham Hotspur,12,Sat,2024-11-23,Manchester City,Tottenham Hotspur,A,0,4,Manchester CityvsTottenham Hotspur,"['W', 'W', 'W', 'L', 'L']","['L', 'W', 'L', 'W', 'L']",0.4,0.6,4,1,4,1
+117,2024-11-24 Ipswich Town-Manchester Utd,12,Sun,2024-11-24,Ipswich Town,Manchester Utd,D,1,1,Ipswich TownvsManchester Utd,"['L', 'L', 'L', 'D', 'W']","['D', 'W', 'L', 'D', 'W']",0.6,0.3,0,1,0,1
+118,2024-11-24 Southampton-Liverpool,12,Sun,2024-11-24,Southampton,Liverpool,A,2,3,SouthamptonvsLiverpool,"['L', 'L', 'L', 'W', 'L']","['W', 'W', 'D', 'W', 'W']",0.9,0.2,1,4,1,4
+119,2024-11-25 Newcastle United-West Ham United,12,Mon,2024-11-25,Newcastle United,West Ham United,A,0,2,Newcastle UnitedvsWest Ham United,"['D', 'L', 'L', 'W', 'W']","['W', 'L', 'W', 'L', 'D']",0.5,0.5,3,1,3,1
+120,2024-11-29 Brighton-Southampton,13,Fri,2024-11-29,Brighton,Southampton,D,1,1,BrightonvsSouthampton,"['W', 'D', 'L', 'W', 'W']","['L', 'L', 'W', 'L', 'L']",0.2,0.7,3,0,3,0
+121,2024-11-30 Brentford-Leicester City,13,Sat,2024-11-30,Brentford,Leicester City,H,4,1,BrentfordvsLeicester City,"['L', 'W', 'L', 'W', 'D']","['W', 'L', 'D', 'L', 'L']",0.3,0.5,5,1,5,1
+122,2024-11-30 Crystal Palace-Newcastle United,13,Sat,2024-11-30,Crystal Palace,Newcastle United,D,1,1,Crystal PalacevsNewcastle United,"['L', 'W', 'D', 'L', 'D']","['L', 'L', 'W', 'W', 'L']",0.4,0.4,1,2,1,2
+123,2024-11-30 Nottingham Forest-Ipswich Town,13,Sat,2024-11-30,Nottingham Forest,Ipswich Town,H,1,0,Nottingham ForestvsIpswich Town,"['W', 'W', 'W', 'L', 'L']","['L', 'L', 'D', 'W', 'D']",0.4,0.6,2,1,2,1
+124,2024-11-30 West Ham United-Arsenal,13,Sat,2024-11-30,West Ham United,Arsenal,A,2,5,West Ham UnitedvsArsenal,"['L', 'W', 'L', 'D', 'W']","['L', 'D', 'L', 'D', 'W']",0.4,0.5,2,2,2,2
+125,2024-11-30 Wolves-Bournemouth,13,Sat,2024-11-30,Wolves,Bournemouth,A,2,4,WolvesvsBournemouth,"['L', 'D', 'D', 'W', 'W']","['W', 'D', 'W', 'L', 'L']",0.5,0.6,1,1,1,1
+126,2024-12-01 Chelsea-Aston Villa,13,Sun,2024-12-01,Chelsea,Aston Villa,H,3,0,ChelseavsAston Villa,"['L', 'W', 'D', 'D', 'W']","['W', 'D', 'L', 'L', 'D']",0.4,0.6,2,3,2,3
+127,2024-12-01 Liverpool-Manchester City,13,Sun,2024-12-01,Liverpool,Manchester City,H,2,0,LiverpoolvsManchester City,"['W', 'D', 'W', 'W', 'W']","['W', 'W', 'L', 'L', 'L']",0.4,0.9,5,3,5,3
+128,2024-12-01 Manchester Utd-Everton,13,Sun,2024-12-01,Manchester Utd,Everton,H,4,0,Manchester UtdvsEverton,"['W', 'L', 'D', 'W', 'D']","['W', 'D', 'L', 'D', 'D']",0.5,0.6,3,1,3,1
+129,2024-12-01 Tottenham Hotspur-Fulham,13,Sun,2024-12-01,Tottenham Hotspur,Fulham,D,1,1,Tottenham HotspurvsFulham,"['W', 'L', 'W', 'L', 'W']","['L', 'D', 'W', 'W', 'L']",0.5,0.6,4,2,4,2
+130,2024-12-03 Ipswich Town-Crystal Palace,14,Tue,2024-12-03,Ipswich Town,Crystal Palace,A,0,1,Ipswich TownvsCrystal Palace,"['L', 'D', 'W', 'D', 'L']","['W', 'D', 'L', 'D', 'D']",0.5,0.4,0,0,0,0
+131,2024-12-03 Leicester City-West Ham United,14,Tue,2024-12-03,Leicester City,West Ham United,H,3,1,Leicester CityvsWest Ham United,"['L', 'D', 'L', 'L', 'L']","['W', 'L', 'D', 'W', 'L']",0.5,0.1,1,2,1,2
+132,2024-12-04 Arsenal-Manchester Utd,14,Wed,2024-12-04,Arsenal,Manchester Utd,H,2,0,ArsenalvsManchester Utd,"['D', 'L', 'D', 'W', 'W']","['L', 'D', 'W', 'D', 'W']",0.6,0.6,4,1,4,1
+133,2024-12-04 Aston Villa-Brentford,14,Wed,2024-12-04,Aston Villa,Brentford,H,3,1,Aston VillavsBrentford,"['D', 'L', 'L', 'D', 'L']","['W', 'L', 'W', 'D', 'W']",0.7,0.2,2,0,2,0
+134,2024-12-04 Everton-Wolves,14,Wed,2024-12-04,Everton,Wolves,H,4,0,EvertonvsWolves,"['D', 'L', 'D', 'D', 'L']","['D', 'D', 'W', 'W', 'L']",0.6,0.3,1,1,1,1
+135,2024-12-04 Manchester City-Nottingham Forest,14,Wed,2024-12-04,Manchester City,Nottingham Forest,H,3,0,Manchester CityvsNottingham Forest,"['W', 'L', 'L', 'L', 'L']","['W', 'W', 'L', 'L', 'W']",0.6,0.2,4,3,4,3
+136,2024-12-04 Newcastle United-Liverpool,14,Wed,2024-12-04,Newcastle United,Liverpool,D,3,3,Newcastle UnitedvsLiverpool,"['L', 'W', 'W', 'L', 'D']","['D', 'W', 'W', 'W', 'W']",0.9,0.5,3,5,3,5
+137,2024-12-04 Southampton-Chelsea,14,Wed,2024-12-04,Southampton,Chelsea,A,1,5,SouthamptonvsChelsea,"['L', 'W', 'L', 'L', 'D']","['W', 'D', 'D', 'W', 'W']",0.8,0.3,1,4,1,4
+138,2024-12-05 Bournemouth-Tottenham Hotspur,14,Thu,2024-12-05,Bournemouth,Tottenham Hotspur,H,1,0,BournemouthvsTottenham Hotspur,"['D', 'W', 'L', 'L', 'W']","['L', 'W', 'L', 'W', 'D']",0.5,0.5,3,2,3,2
+139,2024-12-05 Fulham-Brighton,14,Thu,2024-12-05,Fulham,Brighton,H,3,1,FulhamvsBrighton,"['D', 'W', 'W', 'L', 'D']","['D', 'L', 'W', 'W', 'D']",0.6,0.6,3,3,3,3
+140,2024-12-07 Aston Villa-Southampton,15,Sat,2024-12-07,Aston Villa,Southampton,H,1,0,Aston VillavsSouthampton,"['L', 'L', 'D', 'L', 'W']","['W', 'L', 'L', 'D', 'L']",0.3,0.3,3,0,3,0
+141,2024-12-07 Brentford-Newcastle United,15,Sat,2024-12-07,Brentford,Newcastle United,H,4,2,BrentfordvsNewcastle United,"['L', 'W', 'D', 'W', 'L']","['W', 'W', 'L', 'D', 'D']",0.6,0.5,6,2,6,2
+142,2024-12-07 Crystal Palace-Manchester City,15,Sat,2024-12-07,Crystal Palace,Manchester City,D,2,2,Crystal PalacevsManchester City,"['D', 'L', 'D', 'D', 'W']","['L', 'L', 'L', 'L', 'W']",0.2,0.5,1,3,1,3
+143,2024-12-07 Manchester Utd-Nottingham Forest,15,Sat,2024-12-07,Manchester Utd,Nottingham Forest,A,2,3,Manchester UtdvsNottingham Forest,"['D', 'W', 'D', 'W', 'L']","['W', 'L', 'L', 'W', 'L']",0.4,0.6,4,3,4,3
+144,2024-12-08 Fulham-Arsenal,15,Sun,2024-12-08,Fulham,Arsenal,D,1,1,FulhamvsArsenal,"['W', 'W', 'L', 'D', 'W']","['L', 'D', 'W', 'W', 'W']",0.7,0.7,4,3,4,3
+145,2024-12-08 Ipswich Town-Bournemouth,15,Sun,2024-12-08,Ipswich Town,Bournemouth,A,1,2,Ipswich TownvsBournemouth,"['D', 'W', 'D', 'L', 'L']","['W', 'L', 'L', 'W', 'W']",0.6,0.4,0,2,0,2
+146,2024-12-08 Leicester City-Brighton,15,Sun,2024-12-08,Leicester City,Brighton,D,2,2,Leicester CityvsBrighton,"['D', 'L', 'L', 'L', 'W']","['L', 'W', 'W', 'D', 'L']",0.5,0.3,2,3,2,3
+147,2024-12-08 Tottenham Hotspur-Chelsea,15,Sun,2024-12-08,Tottenham Hotspur,Chelsea,A,3,4,Tottenham HotspurvsChelsea,"['W', 'L', 'W', 'D', 'L']","['D', 'D', 'W', 'W', 'W']",0.8,0.5,4,5,4,5
+148,2024-12-09 West Ham United-Wolves,15,Mon,2024-12-09,West Ham United,Wolves,H,2,1,West Ham UnitedvsWolves,"['L', 'D', 'W', 'L', 'L']","['D', 'W', 'W', 'L', 'L']",0.5,0.3,2,1,2,1
+149,2024-12-14 Arsenal-Everton,16,Sat,2024-12-14,Arsenal,Everton,D,0,0,ArsenalvsEverton,"['D', 'W', 'W', 'W', 'D']","['L', 'D', 'D', 'L', 'W']",0.4,0.8,5,1,5,1
+150,2024-12-14 Liverpool-Fulham,16,Sat,2024-12-14,Liverpool,Fulham,D,2,2,LiverpoolvsFulham,"['W', 'W', 'W', 'W', 'D']","['W', 'L', 'D', 'W', 'D']",0.6,0.9,6,2,6,2
+151,2024-12-14 Newcastle United-Leicester City,16,Sat,2024-12-14,Newcastle United,Leicester City,H,4,0,Newcastle UnitedvsLeicester City,"['W', 'L', 'D', 'D', 'L']","['L', 'L', 'L', 'W', 'D']",0.3,0.4,3,1,3,1
+152,2024-12-14 Nottingham Forest-Aston Villa,16,Sat,2024-12-14,Nottingham Forest,Aston Villa,H,2,1,Nottingham ForestvsAston Villa,"['L', 'L', 'W', 'L', 'W']","['L', 'D', 'L', 'W', 'W']",0.5,0.4,3,3,3,3
+153,2024-12-14 Wolves-Ipswich Town,16,Sat,2024-12-14,Wolves,Ipswich Town,A,1,2,WolvesvsIpswich Town,"['W', 'W', 'L', 'L', 'L']","['W', 'D', 'L', 'L', 'L']",0.3,0.4,1,1,1,1
+154,2024-12-15 Brighton-Crystal Palace,16,Sun,2024-12-15,Brighton,Crystal Palace,A,1,3,BrightonvsCrystal Palace,"['W', 'W', 'D', 'L', 'D']","['L', 'D', 'D', 'W', 'D']",0.5,0.6,3,1,3,1
+155,2024-12-15 Chelsea-Brentford,16,Sun,2024-12-15,Chelsea,Brentford,H,2,1,ChelseavsBrentford,"['D', 'W', 'W', 'W', 'W']","['W', 'D', 'W', 'L', 'W']",0.7,0.9,3,0,3,0
+156,2024-12-15 Manchester City-Manchester Utd,16,Sun,2024-12-15,Manchester City,Manchester Utd,A,1,2,Manchester CityvsManchester Utd,"['L', 'L', 'L', 'W', 'D']","['W', 'D', 'W', 'L', 'L']",0.5,0.3,5,1,5,1
+157,2024-12-15 Southampton-Tottenham Hotspur,16,Sun,2024-12-15,Southampton,Tottenham Hotspur,A,0,5,SouthamptonvsTottenham Hotspur,"['L', 'L', 'D', 'L', 'L']","['L', 'W', 'D', 'L', 'L']",0.3,0.1,1,2,1,2
+158,2024-12-16 Bournemouth-West Ham United,16,Mon,2024-12-16,Bournemouth,West Ham United,D,1,1,BournemouthvsWest Ham United,"['L', 'L', 'W', 'W', 'W']","['D', 'W', 'L', 'L', 'W']",0.5,0.6,4,2,4,2
+159,2024-12-21 Aston Villa-Manchester City,17,Sat,2024-12-21,Aston Villa,Manchester City,H,2,1,Aston VillavsManchester City,"['D', 'L', 'W', 'W', 'L']","['L', 'L', 'W', 'D', 'L']",0.3,0.5,4,3,4,3
+160,2024-12-21 Brentford-Nottingham Forest,17,Sat,2024-12-21,Brentford,Nottingham Forest,A,0,2,BrentfordvsNottingham Forest,"['D', 'W', 'L', 'W', 'L']","['L', 'W', 'L', 'W', 'W']",0.6,0.5,7,4,7,4
+161,2024-12-21 Crystal Palace-Arsenal,17,Sat,2024-12-21,Crystal Palace,Arsenal,A,1,5,Crystal PalacevsArsenal,"['D', 'D', 'W', 'D', 'W']","['W', 'W', 'W', 'D', 'D']",0.8,0.7,1,3,1,3
+162,2024-12-21 Ipswich Town-Newcastle United,17,Sat,2024-12-21,Ipswich Town,Newcastle United,A,0,4,Ipswich TownvsNewcastle United,"['D', 'L', 'L', 'L', 'W']","['L', 'D', 'D', 'L', 'W']",0.4,0.3,0,2,0,2
+163,2024-12-21 West Ham United-Brighton,17,Sat,2024-12-21,West Ham United,Brighton,D,1,1,West Ham UnitedvsBrighton,"['W', 'L', 'L', 'W', 'D']","['W', 'D', 'L', 'D', 'L']",0.4,0.5,3,3,3,3
+164,2024-12-22 Everton-Chelsea,17,Sun,2024-12-22,Everton,Chelsea,D,0,0,EvertonvsChelsea,"['D', 'D', 'L', 'W', 'D']","['W', 'W', 'W', 'W', 'W']",1.0,0.5,2,6,2,6
+165,2024-12-22 Fulham-Southampton,17,Sun,2024-12-22,Fulham,Southampton,D,0,0,FulhamvsSouthampton,"['L', 'D', 'W', 'D', 'D']","['L', 'D', 'L', 'L', 'L']",0.1,0.5,4,0,4,0
+166,2024-12-22 Leicester City-Wolves,17,Sun,2024-12-22,Leicester City,Wolves,A,0,3,Leicester CityvsWolves,"['L', 'L', 'W', 'D', 'L']","['W', 'L', 'L', 'L', 'L']",0.2,0.3,2,1,2,1
+167,2024-12-22 Manchester Utd-Bournemouth,17,Sun,2024-12-22,Manchester Utd,Bournemouth,A,0,3,Manchester UtdvsBournemouth,"['D', 'W', 'L', 'L', 'W']","['L', 'W', 'W', 'W', 'D']",0.7,0.5,4,3,4,3
+168,2024-12-22 Tottenham Hotspur-Liverpool,17,Sun,2024-12-22,Tottenham Hotspur,Liverpool,A,3,6,Tottenham HotspurvsLiverpool,"['W', 'D', 'L', 'L', 'W']","['W', 'W', 'W', 'D', 'D']",0.8,0.5,4,5,4,5
+169,2024-12-26 Bournemouth-Crystal Palace,18,Thu,2024-12-26,Bournemouth,Crystal Palace,D,0,0,BournemouthvsCrystal Palace,"['W', 'W', 'W', 'D', 'W']","['D', 'W', 'D', 'W', 'L']",0.6,0.9,4,2,4,2
+170,2024-12-26 Chelsea-Fulham,18,Thu,2024-12-26,Chelsea,Fulham,A,1,2,ChelseavsFulham,"['W', 'W', 'W', 'W', 'D']","['D', 'W', 'D', 'D', 'D']",0.6,0.9,4,2,4,2
+171,2024-12-26 Liverpool-Leicester City,18,Thu,2024-12-26,Liverpool,Leicester City,H,3,1,LiverpoolvsLeicester City,"['W', 'W', 'D', 'D', 'W']","['L', 'W', 'D', 'L', 'L']",0.3,0.8,6,1,6,1
+172,2024-12-26 Manchester City-Everton,18,Thu,2024-12-26,Manchester City,Everton,D,1,1,Manchester CityvsEverton,"['L', 'W', 'D', 'L', 'L']","['D', 'L', 'W', 'D', 'D']",0.5,0.3,5,1,5,1
+173,2024-12-26 Newcastle United-Aston Villa,18,Thu,2024-12-26,Newcastle United,Aston Villa,H,3,0,Newcastle UnitedvsAston Villa,"['D', 'D', 'L', 'W', 'W']","['L', 'W', 'W', 'L', 'W']",0.6,0.6,4,3,4,3
+174,2024-12-26 Nottingham Forest-Tottenham Hotspur,18,Thu,2024-12-26,Nottingham Forest,Tottenham Hotspur,H,1,0,Nottingham ForestvsTottenham Hotspur,"['W', 'L', 'W', 'W', 'W']","['D', 'L', 'L', 'W', 'L']",0.3,0.8,4,3,4,3
+175,2024-12-26 Southampton-West Ham United,18,Thu,2024-12-26,Southampton,West Ham United,A,0,1,SouthamptonvsWest Ham United,"['D', 'L', 'L', 'L', 'D']","['L', 'L', 'W', 'D', 'D']",0.4,0.2,1,2,1,2
+176,2024-12-26 Wolves-Manchester Utd,18,Thu,2024-12-26,Wolves,Manchester Utd,H,2,0,WolvesvsManchester Utd,"['L', 'L', 'L', 'L', 'W']","['W', 'L', 'L', 'W', 'L']",0.4,0.2,1,2,1,2
+177,2024-12-27 Arsenal-Ipswich Town,18,Fri,2024-12-27,Arsenal,Ipswich Town,H,1,0,ArsenalvsIpswich Town,"['W', 'W', 'D', 'D', 'W']","['L', 'L', 'L', 'W', 'L']",0.2,0.8,5,2,5,2
+178,2024-12-27 Brighton-Brentford,18,Fri,2024-12-27,Brighton,Brentford,D,0,0,BrightonvsBrentford,"['D', 'L', 'D', 'L', 'D']","['W', 'L', 'W', 'L', 'L']",0.4,0.3,3,0,3,0
+179,2024-12-29 Crystal Palace-Southampton,19,Sun,2024-12-29,Crystal Palace,Southampton,H,2,1,Crystal PalacevsSouthampton,"['W', 'D', 'W', 'L', 'D']","['L', 'L', 'L', 'D', 'L']",0.1,0.6,1,0,1,0
+180,2024-12-29 Everton-Nottingham Forest,19,Sun,2024-12-29,Everton,Nottingham Forest,A,0,2,EvertonvsNottingham Forest,"['L', 'W', 'D', 'D', 'D']","['L', 'W', 'W', 'W', 'W']",0.8,0.5,2,5,2,5
+181,2024-12-29 Fulham-Bournemouth,19,Sun,2024-12-29,Fulham,Bournemouth,D,2,2,FulhamvsBournemouth,"['W', 'D', 'D', 'D', 'W']","['W', 'W', 'D', 'W', 'D']",0.8,0.7,4,4,4,4
+182,2024-12-29 Leicester City-Manchester City,19,Sun,2024-12-29,Leicester City,Manchester City,A,0,2,Leicester CityvsManchester City,"['W', 'D', 'L', 'L', 'L']","['W', 'D', 'L', 'L', 'D']",0.4,0.3,2,3,2,3
+183,2024-12-29 Tottenham Hotspur-Wolves,19,Sun,2024-12-29,Tottenham Hotspur,Wolves,D,2,2,Tottenham HotspurvsWolves,"['L', 'L', 'W', 'L', 'L']","['L', 'L', 'L', 'W', 'W']",0.4,0.2,4,2,4,2
+184,2024-12-29 West Ham United-Liverpool,19,Sun,2024-12-29,West Ham United,Liverpool,A,0,5,West Ham UnitedvsLiverpool,"['L', 'W', 'D', 'D', 'W']","['W', 'D', 'D', 'W', 'W']",0.8,0.6,3,6,3,6
+185,2024-12-30 Aston Villa-Brighton,19,Mon,2024-12-30,Aston Villa,Brighton,D,2,2,Aston VillavsBrighton,"['W', 'W', 'L', 'W', 'L']","['L', 'D', 'L', 'D', 'D']",0.3,0.6,5,3,5,3
+186,2024-12-30 Ipswich Town-Chelsea,19,Mon,2024-12-30,Ipswich Town,Chelsea,H,2,0,Ipswich TownvsChelsea,"['L', 'L', 'W', 'L', 'L']","['W', 'W', 'W', 'D', 'L']",0.7,0.2,0,6,0,6
+187,2024-12-30 Manchester Utd-Newcastle United,19,Mon,2024-12-30,Manchester Utd,Newcastle United,A,0,2,Manchester UtdvsNewcastle United,"['L', 'L', 'W', 'L', 'L']","['D', 'L', 'W', 'W', 'W']",0.7,0.2,4,3,4,3
+188,2025-01-01 Brentford-Arsenal,19,Wed,2025-01-01,Brentford,Arsenal,A,1,3,BrentfordvsArsenal,"['L', 'W', 'L', 'L', 'D']","['W', 'D', 'D', 'W', 'W']",0.8,0.3,7,4,7,4
+189,2025-01-04 Aston Villa-Leicester City,20,Sat,2025-01-04,Aston Villa,Leicester City,H,2,1,Aston VillavsLeicester City,"['W', 'L', 'W', 'L', 'D']","['D', 'L', 'L', 'L', 'L']",0.1,0.5,5,1,5,1
+190,2025-01-04 Bournemouth-Everton,20,Sat,2025-01-04,Bournemouth,Everton,H,1,0,BournemouthvsEverton,"['W', 'D', 'W', 'D', 'D']","['W', 'D', 'D', 'D', 'L']",0.5,0.7,4,1,4,1
+191,2025-01-04 Brighton-Arsenal,20,Sat,2025-01-04,Brighton,Arsenal,D,1,1,BrightonvsArsenal,"['D', 'L', 'D', 'D', 'D']","['D', 'D', 'W', 'W', 'W']",0.8,0.4,3,5,3,5
+192,2025-01-04 Crystal Palace-Chelsea,20,Sat,2025-01-04,Crystal Palace,Chelsea,D,1,1,Crystal PalacevsChelsea,"['D', 'W', 'L', 'D', 'W']","['W', 'W', 'D', 'L', 'L']",0.5,0.6,2,6,2,6
+193,2025-01-04 Manchester City-West Ham United,20,Sat,2025-01-04,Manchester City,West Ham United,H,4,1,Manchester CityvsWest Ham United,"['D', 'L', 'L', 'D', 'W']","['W', 'D', 'D', 'W', 'L']",0.6,0.4,5,3,5,3
+194,2025-01-04 Southampton-Brentford,20,Sat,2025-01-04,Southampton,Brentford,A,0,5,SouthamptonvsBrentford,"['L', 'L', 'D', 'L', 'L']","['W', 'L', 'L', 'D', 'L']",0.3,0.1,1,0,1,0
+195,2025-01-04 Tottenham Hotspur-Newcastle United,20,Sat,2025-01-04,Tottenham Hotspur,Newcastle United,A,1,2,Tottenham HotspurvsNewcastle United,"['L', 'W', 'L', 'L', 'D']","['L', 'W', 'W', 'W', 'W']",0.8,0.3,4,4,4,4
+196,2025-01-05 Fulham-Ipswich Town,20,Sun,2025-01-05,Fulham,Ipswich Town,D,2,2,FulhamvsIpswich Town,"['D', 'D', 'D', 'W', 'D']","['L', 'W', 'L', 'L', 'W']",0.4,0.6,4,2,4,2
+197,2025-01-05 Liverpool-Manchester Utd,20,Sun,2025-01-05,Liverpool,Manchester Utd,D,2,2,LiverpoolvsManchester Utd,"['D', 'D', 'W', 'W', 'W']","['L', 'W', 'L', 'L', 'L']",0.2,0.8,7,2,7,2
+198,2025-01-06 Wolves-Nottingham Forest,20,Mon,2025-01-06,Wolves,Nottingham Forest,A,0,3,WolvesvsNottingham Forest,"['L', 'L', 'W', 'W', 'D']","['W', 'W', 'W', 'W', 'W']",1.0,0.5,2,6,2,6
+199,2025-01-14 Brentford-Manchester City,21,Tue,2025-01-14,Brentford,Manchester City,D,2,2,BrentfordvsManchester City,"['L', 'L', 'D', 'L', 'W']","['L', 'L', 'D', 'W', 'W']",0.5,0.3,7,4,7,4
+200,2025-01-14 Chelsea-Bournemouth,21,Tue,2025-01-14,Chelsea,Bournemouth,D,2,2,ChelseavsBournemouth,"['W', 'D', 'L', 'L', 'D']","['D', 'W', 'D', 'D', 'W']",0.7,0.4,4,4,4,4
+201,2025-01-14 Nottingham Forest-Liverpool,21,Tue,2025-01-14,Nottingham Forest,Liverpool,D,1,1,Nottingham ForestvsLiverpool,"['W', 'W', 'W', 'W', 'W']","['D', 'W', 'W', 'W', 'D']",0.8,1.0,5,7,5,7
+202,2025-01-14 West Ham United-Fulham,21,Tue,2025-01-14,West Ham United,Fulham,H,3,2,West Ham UnitedvsFulham,"['D', 'D', 'W', 'L', 'L']","['D', 'D', 'W', 'D', 'D']",0.6,0.4,3,3,3,3
+203,2025-01-15 Arsenal-Tottenham Hotspur,21,Wed,2025-01-15,Arsenal,Tottenham Hotspur,H,2,1,ArsenalvsTottenham Hotspur,"['D', 'W', 'W', 'W', 'D']","['W', 'L', 'L', 'D', 'L']",0.3,0.8,6,3,6,3
+204,2025-01-15 Everton-Aston Villa,21,Wed,2025-01-15,Everton,Aston Villa,A,0,1,EvertonvsAston Villa,"['D', 'D', 'D', 'L', 'L']","['L', 'W', 'L', 'D', 'W']",0.5,0.3,2,3,2,3
+205,2025-01-15 Leicester City-Crystal Palace,21,Wed,2025-01-15,Leicester City,Crystal Palace,A,0,2,Leicester CityvsCrystal Palace,"['L', 'L', 'L', 'L', 'L']","['W', 'L', 'D', 'W', 'D']",0.6,0.0,2,2,2,2
+206,2025-01-15 Newcastle United-Wolves,21,Wed,2025-01-15,Newcastle United,Wolves,H,3,0,Newcastle UnitedvsWolves,"['W', 'W', 'W', 'W', 'W']","['L', 'W', 'W', 'D', 'L']",0.5,1.0,5,2,5,2
+207,2025-01-16 Ipswich Town-Brighton,21,Thu,2025-01-16,Ipswich Town,Brighton,A,0,2,Ipswich TownvsBrighton,"['W', 'L', 'L', 'W', 'D']","['L', 'D', 'D', 'D', 'D']",0.4,0.5,1,3,1,3
+208,2025-01-16 Manchester Utd-Southampton,21,Thu,2025-01-16,Manchester Utd,Southampton,H,3,1,Manchester UtdvsSouthampton,"['W', 'L', 'L', 'L', 'D']","['L', 'D', 'L', 'L', 'L']",0.1,0.3,4,0,4,0
+209,2025-01-18 Arsenal-Aston Villa,22,Sat,2025-01-18,Arsenal,Aston Villa,D,2,2,ArsenalvsAston Villa,"['W', 'W', 'W', 'D', 'W']","['W', 'L', 'D', 'W', 'W']",0.7,0.9,7,4,7,4
+210,2025-01-18 Brentford-Liverpool,22,Sat,2025-01-18,Brentford,Liverpool,A,0,2,BrentfordvsLiverpool,"['L', 'D', 'L', 'W', 'D']","['W', 'W', 'W', 'D', 'D']",0.8,0.4,7,7,7,7
+211,2025-01-18 Leicester City-Fulham,22,Sat,2025-01-18,Leicester City,Fulham,A,0,2,Leicester CityvsFulham,"['L', 'L', 'L', 'L', 'L']","['D', 'W', 'D', 'D', 'L']",0.5,0.0,2,3,2,3
+212,2025-01-18 Newcastle United-Bournemouth,22,Sat,2025-01-18,Newcastle United,Bournemouth,A,1,4,Newcastle UnitedvsBournemouth,"['W', 'W', 'W', 'W', 'W']","['W', 'D', 'D', 'W', 'D']",0.7,1.0,6,4,6,4
+213,2025-01-18 West Ham United-Crystal Palace,22,Sat,2025-01-18,West Ham United,Crystal Palace,A,0,2,West Ham UnitedvsCrystal Palace,"['D', 'W', 'L', 'L', 'W']","['L', 'D', 'W', 'D', 'W']",0.6,0.5,4,3,4,3
+214,2025-01-19 Everton-Tottenham Hotspur,22,Sun,2025-01-19,Everton,Tottenham Hotspur,H,3,2,EvertonvsTottenham Hotspur,"['D', 'D', 'L', 'L', 'L']","['L', 'L', 'D', 'L', 'L']",0.1,0.2,2,3,2,3
+215,2025-01-19 Ipswich Town-Manchester City,22,Sun,2025-01-19,Ipswich Town,Manchester City,A,0,6,Ipswich TownvsManchester City,"['L', 'L', 'W', 'D', 'L']","['L', 'D', 'W', 'W', 'D']",0.6,0.3,1,4,1,4
+216,2025-01-19 Manchester Utd-Brighton,22,Sun,2025-01-19,Manchester Utd,Brighton,A,1,3,Manchester UtdvsBrighton,"['L', 'L', 'L', 'D', 'W']","['D', 'D', 'D', 'D', 'W']",0.6,0.3,5,4,5,4
+217,2025-01-19 Nottingham Forest-Southampton,22,Sun,2025-01-19,Nottingham Forest,Southampton,H,3,2,Nottingham ForestvsSouthampton,"['W', 'W', 'W', 'W', 'D']","['D', 'L', 'L', 'L', 'L']",0.1,0.9,5,0,5,0
+218,2025-01-20 Chelsea-Wolves,22,Mon,2025-01-20,Chelsea,Wolves,H,3,1,ChelseavsWolves,"['D', 'L', 'L', 'D', 'D']","['W', 'W', 'D', 'L', 'L']",0.5,0.3,4,2,4,2
+219,2025-01-25 Bournemouth-Nottingham Forest,23,Sat,2025-01-25,Bournemouth,Nottingham Forest,H,5,0,BournemouthvsNottingham Forest,"['D', 'D', 'W', 'D', 'W']","['W', 'W', 'W', 'D', 'W']",0.9,0.7,5,7,5,7
+220,2025-01-25 Brighton-Everton,23,Sat,2025-01-25,Brighton,Everton,A,0,1,BrightonvsEverton,"['D', 'D', 'D', 'W', 'W']","['D', 'L', 'L', 'L', 'W']",0.3,0.7,3,1,3,1
+221,2025-01-25 Liverpool-Ipswich Town,23,Sat,2025-01-25,Liverpool,Ipswich Town,H,4,1,LiverpoolvsIpswich Town,"['W', 'W', 'D', 'D', 'W']","['L', 'W', 'D', 'L', 'L']",0.3,0.8,7,2,7,2
+222,2025-01-25 Manchester City-Chelsea,23,Sat,2025-01-25,Manchester City,Chelsea,H,3,1,Manchester CityvsChelsea,"['D', 'W', 'W', 'D', 'W']","['L', 'L', 'D', 'D', 'W']",0.4,0.8,6,6,6,6
+223,2025-01-25 Southampton-Newcastle United,23,Sat,2025-01-25,Southampton,Newcastle United,A,1,3,SouthamptonvsNewcastle United,"['L', 'L', 'L', 'L', 'L']","['W', 'W', 'W', 'W', 'L']",0.8,0.0,1,5,1,5
+224,2025-01-25 Wolves-Arsenal,23,Sat,2025-01-25,Wolves,Arsenal,A,0,1,WolvesvsArsenal,"['W', 'D', 'L', 'L', 'L']","['W', 'W', 'D', 'W', 'D']",0.8,0.3,2,5,2,5
+225,2025-01-26 Aston Villa-West Ham United,23,Sun,2025-01-26,Aston Villa,West Ham United,D,1,1,Aston VillavsWest Ham United,"['L', 'D', 'W', 'W', 'D']","['W', 'L', 'L', 'W', 'L']",0.4,0.6,6,3,6,3
+226,2025-01-26 Crystal Palace-Brentford,23,Sun,2025-01-26,Crystal Palace,Brentford,A,1,2,Crystal PalacevsBrentford,"['D', 'W', 'D', 'W', 'W']","['D', 'L', 'W', 'D', 'L']",0.4,0.8,2,1,2,1
+227,2025-01-26 Fulham-Manchester Utd,23,Sun,2025-01-26,Fulham,Manchester Utd,A,0,1,FulhamvsManchester Utd,"['W', 'D', 'D', 'L', 'W']","['L', 'L', 'D', 'W', 'L']",0.3,0.6,4,2,4,2
+228,2025-01-26 Tottenham Hotspur-Leicester City,23,Sun,2025-01-26,Tottenham Hotspur,Leicester City,A,1,2,Tottenham HotspurvsLeicester City,"['L', 'D', 'L', 'L', 'L']","['L', 'L', 'L', 'L', 'L']",0.0,0.1,4,1,4,1
+229,2025-02-01 Bournemouth-Liverpool,24,Sat,2025-02-01,Bournemouth,Liverpool,A,0,2,BournemouthvsLiverpool,"['D', 'W', 'D', 'W', 'W']","['W', 'D', 'D', 'W', 'W']",0.8,0.8,6,8,6,8
+230,2025-02-01 Everton-Leicester City,24,Sat,2025-02-01,Everton,Leicester City,H,4,0,EvertonvsLeicester City,"['L', 'L', 'L', 'W', 'W']","['L', 'L', 'L', 'L', 'W']",0.2,0.4,3,2,3,2
+231,2025-02-01 Ipswich Town-Southampton,24,Sat,2025-02-01,Ipswich Town,Southampton,A,1,2,Ipswich TownvsSouthampton,"['W', 'D', 'L', 'L', 'L']","['L', 'L', 'L', 'L', 'L']",0.0,0.3,1,0,1,0
+232,2025-02-01 Newcastle United-Fulham,24,Sat,2025-02-01,Newcastle United,Fulham,A,1,2,Newcastle UnitedvsFulham,"['W', 'W', 'W', 'L', 'W']","['D', 'D', 'L', 'W', 'L']",0.4,0.8,6,4,6,4
+233,2025-02-01 Nottingham Forest-Brighton,24,Sat,2025-02-01,Nottingham Forest,Brighton,H,7,0,Nottingham ForestvsBrighton,"['W', 'W', 'D', 'W', 'L']","['D', 'D', 'W', 'W', 'L']",0.6,0.7,6,5,6,5
+234,2025-02-01 Wolves-Aston Villa,24,Sat,2025-02-01,Wolves,Aston Villa,H,2,0,WolvesvsAston Villa,"['D', 'L', 'L', 'L', 'L']","['D', 'W', 'W', 'D', 'D']",0.7,0.1,2,4,2,4
+235,2025-02-02 Arsenal-Manchester City,24,Sun,2025-02-02,Arsenal,Manchester City,H,5,1,ArsenalvsManchester City,"['W', 'D', 'W', 'D', 'W']","['W', 'W', 'D', 'W', 'W']",0.9,0.8,7,5,7,5
+236,2025-02-02 Brentford-Tottenham Hotspur,24,Sun,2025-02-02,Brentford,Tottenham Hotspur,A,0,2,BrentfordvsTottenham Hotspur,"['L', 'W', 'D', 'L', 'W']","['D', 'L', 'L', 'L', 'L']",0.1,0.5,7,3,7,3
+237,2025-02-02 Manchester Utd-Crystal Palace,24,Sun,2025-02-02,Manchester Utd,Crystal Palace,A,0,2,Manchester UtdvsCrystal Palace,"['L', 'D', 'W', 'L', 'W']","['W', 'D', 'W', 'W', 'L']",0.7,0.5,5,4,5,4
+238,2025-02-03 Chelsea-West Ham United,24,Mon,2025-02-03,Chelsea,West Ham United,H,2,1,ChelseavsWest Ham United,"['L', 'D', 'D', 'W', 'L']","['L', 'L', 'W', 'L', 'D']",0.3,0.4,5,3,5,3
+239,2025-02-12 Everton-Liverpool,15,Wed,2025-02-12,Everton,Liverpool,D,2,2,EvertonvsLiverpool,"['L', 'L', 'W', 'W', 'W']","['D', 'D', 'W', 'W', 'W']",0.8,0.6,4,9,4,9
+240,2025-02-14 Brighton-Chelsea,25,Fri,2025-02-14,Brighton,Chelsea,H,3,0,BrightonvsChelsea,"['D', 'W', 'W', 'L', 'L']","['D', 'D', 'W', 'L', 'W']",0.6,0.5,3,6,3,6
+241,2025-02-15 Aston Villa-Ipswich Town,25,Sat,2025-02-15,Aston Villa,Ipswich Town,D,1,1,Aston VillavsIpswich Town,"['W', 'W', 'D', 'D', 'L']","['D', 'L', 'L', 'L', 'L']",0.1,0.6,6,2,6,2
+242,2025-02-15 Crystal Palace-Everton,25,Sat,2025-02-15,Crystal Palace,Everton,A,1,2,Crystal PalacevsEverton,"['D', 'W', 'W', 'L', 'W']","['L', 'W', 'W', 'W', 'D']",0.7,0.7,2,2,2,2
+243,2025-02-15 Fulham-Nottingham Forest,25,Sat,2025-02-15,Fulham,Nottingham Forest,H,2,1,FulhamvsNottingham Forest,"['D', 'L', 'W', 'L', 'W']","['W', 'D', 'W', 'L', 'W']",0.7,0.5,4,7,4,7
+244,2025-02-15 Leicester City-Arsenal,25,Sat,2025-02-15,Leicester City,Arsenal,A,0,2,Leicester CityvsArsenal,"['L', 'L', 'L', 'W', 'L']","['D', 'W', 'D', 'W', 'W']",0.8,0.2,2,6,2,6
+245,2025-02-15 Manchester City-Newcastle United,25,Sat,2025-02-15,Manchester City,Newcastle United,H,4,0,Manchester CityvsNewcastle United,"['W', 'D', 'W', 'W', 'L']","['W', 'W', 'L', 'W', 'L']",0.6,0.7,7,6,7,6
+246,2025-02-15 Southampton-Bournemouth,25,Sat,2025-02-15,Southampton,Bournemouth,A,1,3,SouthamptonvsBournemouth,"['L', 'L', 'L', 'L', 'W']","['W', 'D', 'W', 'W', 'L']",0.7,0.2,1,5,1,5
+247,2025-02-15 West Ham United-Brentford,25,Sat,2025-02-15,West Ham United,Brentford,A,0,1,West Ham UnitedvsBrentford,"['L', 'W', 'L', 'D', 'L']","['W', 'D', 'L', 'W', 'L']",0.5,0.3,4,2,4,2
+248,2025-02-16 Liverpool-Wolves,25,Sun,2025-02-16,Liverpool,Wolves,H,2,1,LiverpoolvsWolves,"['D', 'W', 'W', 'W', 'D']","['L', 'L', 'L', 'L', 'W']",0.2,0.8,8,2,8,2
+249,2025-02-16 Tottenham Hotspur-Manchester Utd,25,Sun,2025-02-16,Tottenham Hotspur,Manchester Utd,H,1,0,Tottenham HotspurvsManchester Utd,"['L', 'L', 'L', 'L', 'W']","['D', 'W', 'L', 'W', 'L']",0.5,0.2,4,3,4,3
+250,2025-02-19 Aston Villa-Liverpool,29,Wed,2025-02-19,Aston Villa,Liverpool,D,2,2,Aston VillavsLiverpool,"['W', 'D', 'D', 'L', 'D']","['W', 'W', 'W', 'D', 'W']",0.9,0.5,6,9,6,9
+251,2025-02-21 Leicester City-Brentford,26,Fri,2025-02-21,Leicester City,Brentford,A,0,4,Leicester CityvsBrentford,"['L', 'L', 'W', 'L', 'L']","['D', 'L', 'W', 'L', 'W']",0.5,0.2,2,3,2,3
+252,2025-02-22 Arsenal-West Ham United,26,Sat,2025-02-22,Arsenal,West Ham United,A,0,1,ArsenalvsWest Ham United,"['W', 'D', 'W', 'W', 'W']","['W', 'L', 'D', 'L', 'L']",0.3,0.9,8,3,8,3
+253,2025-02-22 Aston Villa-Chelsea,26,Sat,2025-02-22,Aston Villa,Chelsea,H,2,1,Aston VillavsChelsea,"['D', 'D', 'L', 'D', 'D']","['D', 'W', 'L', 'W', 'L']",0.5,0.4,6,6,6,6
+254,2025-02-22 Bournemouth-Wolves,26,Sat,2025-02-22,Bournemouth,Wolves,A,0,1,BournemouthvsWolves,"['D', 'W', 'W', 'L', 'W']","['L', 'L', 'L', 'W', 'L']",0.2,0.7,6,2,6,2
+255,2025-02-22 Everton-Manchester Utd,26,Sat,2025-02-22,Everton,Manchester Utd,D,2,2,EvertonvsManchester Utd,"['W', 'W', 'W', 'D', 'W']","['W', 'L', 'W', 'L', 'L']",0.4,0.9,4,3,4,3
+256,2025-02-22 Fulham-Crystal Palace,26,Sat,2025-02-22,Fulham,Crystal Palace,A,0,2,FulhamvsCrystal Palace,"['L', 'W', 'L', 'W', 'W']","['W', 'W', 'L', 'W', 'L']",0.6,0.6,5,5,5,5
+257,2025-02-22 Ipswich Town-Tottenham Hotspur,26,Sat,2025-02-22,Ipswich Town,Tottenham Hotspur,A,1,4,Ipswich TownvsTottenham Hotspur,"['L', 'L', 'L', 'L', 'D']","['L', 'L', 'L', 'W', 'W']",0.4,0.1,1,4,1,4
+258,2025-02-22 Southampton-Brighton,26,Sat,2025-02-22,Southampton,Brighton,A,0,4,SouthamptonvsBrighton,"['L', 'L', 'L', 'W', 'L']","['W', 'W', 'L', 'L', 'W']",0.6,0.2,1,5,1,5
+259,2025-02-23 Manchester City-Liverpool,26,Sun,2025-02-23,Manchester City,Liverpool,A,0,2,Manchester CityvsLiverpool,"['D', 'W', 'W', 'L', 'W']","['W', 'W', 'D', 'W', 'D']",0.8,0.7,8,9,8,9
+260,2025-02-23 Newcastle United-Nottingham Forest,26,Sun,2025-02-23,Newcastle United,Nottingham Forest,H,4,3,Newcastle UnitedvsNottingham Forest,"['W', 'L', 'W', 'L', 'L']","['D', 'W', 'L', 'W', 'L']",0.5,0.4,6,7,6,7
+261,2025-02-25 Brighton-Bournemouth,27,Tue,2025-02-25,Brighton,Bournemouth,H,2,1,BrightonvsBournemouth,"['W', 'L', 'L', 'W', 'W']","['W', 'W', 'L', 'W', 'L']",0.6,0.6,4,6,4,6
+262,2025-02-25 Chelsea-Southampton,27,Tue,2025-02-25,Chelsea,Southampton,H,4,0,ChelseavsSouthampton,"['W', 'L', 'W', 'L', 'L']","['L', 'L', 'W', 'L', 'L']",0.2,0.4,6,1,6,1
+263,2025-02-25 Crystal Palace-Aston Villa,27,Tue,2025-02-25,Crystal Palace,Aston Villa,H,4,1,Crystal PalacevsAston Villa,"['W', 'L', 'W', 'L', 'W']","['D', 'L', 'D', 'D', 'W']",0.5,0.6,2,4,2,4
+264,2025-02-25 Wolves-Fulham,27,Tue,2025-02-25,Wolves,Fulham,A,1,2,WolvesvsFulham,"['L', 'L', 'W', 'L', 'W']","['W', 'L', 'W', 'W', 'L']",0.6,0.4,3,5,3,5
+265,2025-02-26 Brentford-Everton,27,Wed,2025-02-26,Brentford,Everton,D,1,1,BrentfordvsEverton,"['L', 'W', 'L', 'W', 'W']","['W', 'W', 'D', 'W', 'D']",0.8,0.6,7,3,7,3
+266,2025-02-26 Liverpool-Newcastle United,27,Wed,2025-02-26,Liverpool,Newcastle United,H,2,0,LiverpoolvsNewcastle United,"['W', 'D', 'W', 'D', 'W']","['L', 'W', 'L', 'L', 'W']",0.4,0.8,9,6,9,6
+267,2025-02-26 Manchester Utd-Ipswich Town,27,Wed,2025-02-26,Manchester Utd,Ipswich Town,H,3,2,Manchester UtdvsIpswich Town,"['L', 'W', 'L', 'L', 'D']","['L', 'L', 'L', 'D', 'L']",0.1,0.3,5,2,5,2
+268,2025-02-26 Nottingham Forest-Arsenal,27,Wed,2025-02-26,Nottingham Forest,Arsenal,D,0,0,Nottingham ForestvsArsenal,"['W', 'L', 'W', 'L', 'L']","['D', 'W', 'W', 'W', 'L']",0.7,0.4,7,7,7,7
+269,2025-02-26 Tottenham Hotspur-Manchester City,27,Wed,2025-02-26,Tottenham Hotspur,Manchester City,A,0,1,Tottenham HotspurvsManchester City,"['L', 'L', 'W', 'W', 'W']","['W', 'W', 'L', 'W', 'L']",0.6,0.6,5,5,5,5
+270,2025-02-27 West Ham United-Leicester City,27,Thu,2025-02-27,West Ham United,Leicester City,H,2,0,West Ham UnitedvsLeicester City,"['L', 'D', 'L', 'L', 'W']","['L', 'W', 'L', 'L', 'L']",0.2,0.3,4,2,4,2
+271,2025-03-08 Brentford-Aston Villa,28,Sat,2025-03-08,Brentford,Aston Villa,A,0,1,BrentfordvsAston Villa,"['W', 'L', 'W', 'W', 'D']","['L', 'D', 'D', 'W', 'L']",0.4,0.7,7,4,7,4
+272,2025-03-08 Brighton-Fulham,28,Sat,2025-03-08,Brighton,Fulham,H,2,1,BrightonvsFulham,"['L', 'L', 'W', 'W', 'W']","['L', 'W', 'W', 'L', 'W']",0.6,0.6,5,6,5,6
+273,2025-03-08 Crystal Palace-Ipswich Town,28,Sat,2025-03-08,Crystal Palace,Ipswich Town,H,1,0,Crystal PalacevsIpswich Town,"['L', 'W', 'L', 'W', 'W']","['L', 'L', 'D', 'L', 'L']",0.1,0.6,3,2,3,2
+274,2025-03-08 Liverpool-Southampton,28,Sat,2025-03-08,Liverpool,Southampton,H,3,1,LiverpoolvsSouthampton,"['D', 'W', 'D', 'W', 'W']","['L', 'W', 'L', 'L', 'L']",0.2,0.8,10,1,10,1
+275,2025-03-08 Nottingham Forest-Manchester City,28,Sat,2025-03-08,Nottingham Forest,Manchester City,H,1,0,Nottingham ForestvsManchester City,"['L', 'W', 'L', 'L', 'D']","['W', 'L', 'W', 'L', 'W']",0.6,0.3,7,6,7,6
+276,2025-03-08 Wolves-Everton,28,Sat,2025-03-08,Wolves,Everton,D,1,1,WolvesvsEverton,"['L', 'W', 'L', 'W', 'L']","['W', 'D', 'W', 'D', 'D']",0.7,0.4,3,3,3,3
+277,2025-03-09 Chelsea-Leicester City,28,Sun,2025-03-09,Chelsea,Leicester City,H,1,0,ChelseavsLeicester City,"['L', 'W', 'L', 'L', 'W']","['W', 'L', 'L', 'L', 'L']",0.2,0.4,7,2,7,2
+278,2025-03-09 Manchester Utd-Arsenal,28,Sun,2025-03-09,Manchester Utd,Arsenal,D,1,1,Manchester UtdvsArsenal,"['W', 'L', 'L', 'D', 'W']","['W', 'W', 'W', 'L', 'D']",0.7,0.5,6,7,6,7
+279,2025-03-09 Tottenham Hotspur-Bournemouth,28,Sun,2025-03-09,Tottenham Hotspur,Bournemouth,D,2,2,Tottenham HotspurvsBournemouth,"['L', 'W', 'W', 'W', 'L']","['W', 'L', 'W', 'L', 'L']",0.4,0.6,5,6,5,6
+280,2025-03-10 West Ham United-Newcastle United,28,Mon,2025-03-10,West Ham United,Newcastle United,A,0,1,West Ham UnitedvsNewcastle United,"['D', 'L', 'L', 'W', 'W']","['W', 'L', 'L', 'W', 'L']",0.4,0.5,5,6,5,6
+281,2025-03-15 Bournemouth-Brentford,29,Sat,2025-03-15,Bournemouth,Brentford,A,1,2,BournemouthvsBrentford,"['L', 'W', 'L', 'L', 'D']","['L', 'W', 'W', 'D', 'L']",0.5,0.3,6,4,6,4
+282,2025-03-15 Everton-West Ham United,29,Sat,2025-03-15,Everton,West Ham United,D,1,1,EvertonvsWest Ham United,"['D', 'W', 'D', 'D', 'D']","['L', 'L', 'W', 'W', 'L']",0.4,0.6,4,4,4,4
+283,2025-03-15 Ipswich Town-Nottingham Forest,29,Sat,2025-03-15,Ipswich Town,Nottingham Forest,A,2,4,Ipswich TownvsNottingham Forest,"['L', 'D', 'L', 'L', 'L']","['W', 'L', 'L', 'D', 'W']",0.5,0.1,1,7,1,7
+284,2025-03-15 Manchester City-Brighton,29,Sat,2025-03-15,Manchester City,Brighton,D,2,2,Manchester CityvsBrighton,"['L', 'W', 'L', 'W', 'L']","['L', 'W', 'W', 'W', 'W']",0.8,0.4,8,6,8,6
+285,2025-03-15 Southampton-Wolves,29,Sat,2025-03-15,Southampton,Wolves,A,1,2,SouthamptonvsWolves,"['W', 'L', 'L', 'L', 'L']","['W', 'L', 'W', 'L', 'D']",0.5,0.2,1,3,1,3
+286,2025-03-16 Arsenal-Chelsea,29,Sun,2025-03-16,Arsenal,Chelsea,H,1,0,ArsenalvsChelsea,"['W', 'W', 'L', 'D', 'D']","['W', 'L', 'L', 'W', 'W']",0.6,0.6,8,6,8,6
+287,2025-03-16 Fulham-Tottenham Hotspur,29,Sun,2025-03-16,Fulham,Tottenham Hotspur,H,2,0,FulhamvsTottenham Hotspur,"['W', 'W', 'L', 'W', 'L']","['W', 'W', 'W', 'L', 'D']",0.7,0.6,5,5,5,5
+288,2025-03-16 Leicester City-Manchester Utd,29,Sun,2025-03-16,Leicester City,Manchester Utd,A,0,3,Leicester CityvsManchester Utd,"['L', 'L', 'L', 'L', 'L']","['L', 'L', 'D', 'W', 'D']",0.4,0.0,2,3,2,3
+289,2025-04-01 Arsenal-Fulham,30,Tue,2025-04-01,Arsenal,Fulham,H,2,1,ArsenalvsFulham,"['W', 'L', 'D', 'D', 'W']","['W', 'L', 'W', 'L', 'W']",0.6,0.6,9,6,9,6
+290,2025-04-01 Nottingham Forest-Manchester Utd,30,Tue,2025-04-01,Nottingham Forest,Manchester Utd,H,1,0,Nottingham ForestvsManchester Utd,"['L', 'L', 'D', 'W', 'W']","['L', 'D', 'W', 'D', 'W']",0.6,0.5,8,4,8,4
+291,2025-04-01 Wolves-West Ham United,30,Tue,2025-04-01,Wolves,West Ham United,H,1,0,WolvesvsWest Ham United,"['L', 'W', 'L', 'D', 'W']","['L', 'W', 'W', 'L', 'D']",0.5,0.5,3,4,3,4
+292,2025-04-02 Bournemouth-Ipswich Town,30,Wed,2025-04-02,Bournemouth,Ipswich Town,A,1,2,BournemouthvsIpswich Town,"['W', 'L', 'L', 'D', 'L']","['D', 'L', 'L', 'L', 'L']",0.1,0.3,6,2,6,2
+293,2025-04-02 Brighton-Aston Villa,30,Wed,2025-04-02,Brighton,Aston Villa,A,0,3,BrightonvsAston Villa,"['W', 'W', 'W', 'W', 'D']","['D', 'D', 'W', 'L', 'W']",0.6,0.9,6,5,6,5
+294,2025-04-02 Liverpool-Everton,30,Wed,2025-04-02,Liverpool,Everton,H,1,0,LiverpoolvsEverton,"['W', 'D', 'W', 'W', 'W']","['W', 'D', 'D', 'D', 'D']",0.6,0.9,11,3,11,3
+295,2025-04-02 Manchester City-Leicester City,30,Wed,2025-04-02,Manchester City,Leicester City,H,2,0,Manchester CityvsLeicester City,"['W', 'L', 'W', 'L', 'D']","['L', 'L', 'L', 'L', 'L']",0.0,0.5,8,2,8,2
+296,2025-04-02 Newcastle United-Brentford,30,Wed,2025-04-02,Newcastle United,Brentford,H,2,1,Newcastle UnitedvsBrentford,"['L', 'L', 'W', 'L', 'W']","['W', 'W', 'D', 'L', 'W']",0.7,0.4,7,5,7,5
+297,2025-04-02 Southampton-Crystal Palace,30,Wed,2025-04-02,Southampton,Crystal Palace,D,1,1,SouthamptonvsCrystal Palace,"['L', 'L', 'L', 'L', 'L']","['W', 'L', 'W', 'W', 'W']",0.8,0.0,1,6,1,6
+298,2025-04-03 Chelsea-Tottenham Hotspur,30,Thu,2025-04-03,Chelsea,Tottenham Hotspur,H,1,0,ChelseavsTottenham Hotspur,"['L', 'L', 'W', 'W', 'L']","['W', 'W', 'L', 'D', 'L']",0.5,0.4,8,5,8,5
+299,2025-04-05 Aston Villa-Nottingham Forest,31,Sat,2025-04-05,Aston Villa,Nottingham Forest,H,2,1,Aston VillavsNottingham Forest,"['D', 'W', 'L', 'W', 'W']","['L', 'D', 'W', 'W', 'W']",0.7,0.7,7,8,7,8
+300,2025-04-05 Crystal Palace-Brighton,31,Sat,2025-04-05,Crystal Palace,Brighton,H,2,1,Crystal PalacevsBrighton,"['L', 'W', 'W', 'W', 'D']","['W', 'W', 'W', 'D', 'L']",0.7,0.7,4,6,4,6
+301,2025-04-05 Everton-Arsenal,31,Sat,2025-04-05,Everton,Arsenal,D,1,1,EvertonvsArsenal,"['D', 'D', 'D', 'D', 'L']","['L', 'D', 'D', 'W', 'W']",0.6,0.4,4,7,4,7
+302,2025-04-05 Ipswich Town-Wolves,31,Sat,2025-04-05,Ipswich Town,Wolves,A,1,2,Ipswich TownvsWolves,"['L', 'L', 'L', 'L', 'W']","['W', 'L', 'D', 'W', 'W']",0.7,0.2,1,4,1,4
+303,2025-04-05 West Ham United-Bournemouth,31,Sat,2025-04-05,West Ham United,Bournemouth,D,2,2,West Ham UnitedvsBournemouth,"['W', 'W', 'L', 'D', 'L']","['L', 'L', 'D', 'L', 'L']",0.1,0.5,5,6,5,6
+304,2025-04-06 Brentford-Chelsea,31,Sun,2025-04-06,Brentford,Chelsea,D,0,0,BrentfordvsChelsea,"['W', 'D', 'L', 'W', 'L']","['L', 'W', 'W', 'L', 'W']",0.6,0.5,7,6,7,6
+305,2025-04-06 Fulham-Liverpool,31,Sun,2025-04-06,Fulham,Liverpool,H,3,2,FulhamvsLiverpool,"['L', 'W', 'L', 'W', 'L']","['D', 'W', 'W', 'W', 'W']",0.9,0.4,6,10,6,10
+306,2025-04-06 Manchester Utd-Manchester City,31,Sun,2025-04-06,Manchester Utd,Manchester City,D,0,0,Manchester UtdvsManchester City,"['D', 'W', 'D', 'W', 'L']","['L', 'W', 'L', 'D', 'W']",0.5,0.6,6,6,6,6
+307,2025-04-06 Tottenham Hotspur-Southampton,31,Sun,2025-04-06,Tottenham Hotspur,Southampton,H,3,1,Tottenham HotspurvsSouthampton,"['W', 'L', 'D', 'L', 'L']","['L', 'L', 'L', 'L', 'D']",0.1,0.3,5,1,5,1
+308,2025-04-07 Leicester City-Newcastle United,31,Mon,2025-04-07,Leicester City,Newcastle United,A,0,3,Leicester CityvsNewcastle United,"['L', 'L', 'L', 'L', 'L']","['L', 'W', 'L', 'W', 'W']",0.6,0.0,2,7,2,7
+309,2025-04-12 Arsenal-Brentford,32,Sat,2025-04-12,Arsenal,Brentford,D,1,1,ArsenalvsBrentford,"['D', 'D', 'W', 'W', 'D']","['D', 'L', 'W', 'L', 'D']",0.4,0.7,10,5,10,5
+310,2025-04-12 Brighton-Leicester City,32,Sat,2025-04-12,Brighton,Leicester City,D,2,2,BrightonvsLeicester City,"['W', 'W', 'D', 'L', 'L']","['L', 'L', 'L', 'L', 'L']",0.0,0.5,6,2,6,2
+311,2025-04-12 Manchester City-Crystal Palace,32,Sat,2025-04-12,Manchester City,Crystal Palace,H,5,2,Manchester CityvsCrystal Palace,"['W', 'L', 'D', 'W', 'D']","['W', 'W', 'W', 'D', 'W']",0.9,0.6,9,6,9,6
+312,2025-04-12 Nottingham Forest-Everton,32,Sat,2025-04-12,Nottingham Forest,Everton,A,0,1,Nottingham ForestvsEverton,"['D', 'W', 'W', 'W', 'L']","['D', 'D', 'D', 'L', 'D']",0.4,0.7,9,3,9,3
+313,2025-04-12 Southampton-Aston Villa,32,Sat,2025-04-12,Southampton,Aston Villa,A,0,3,SouthamptonvsAston Villa,"['L', 'L', 'L', 'D', 'L']","['W', 'L', 'W', 'W', 'W']",0.8,0.1,1,6,1,6
+314,2025-04-13 Chelsea-Ipswich Town,32,Sun,2025-04-13,Chelsea,Ipswich Town,D,2,2,ChelseavsIpswich Town,"['W', 'W', 'L', 'W', 'D']","['L', 'L', 'L', 'W', 'L']",0.2,0.7,9,3,9,3
+315,2025-04-13 Liverpool-West Ham United,32,Sun,2025-04-13,Liverpool,West Ham United,H,2,1,LiverpoolvsWest Ham United,"['W', 'W', 'W', 'W', 'L']","['W', 'L', 'D', 'L', 'D']",0.4,0.8,12,4,12,4
+316,2025-04-13 Newcastle United-Manchester Utd,32,Sun,2025-04-13,Newcastle United,Manchester Utd,H,4,1,Newcastle UnitedvsManchester Utd,"['W', 'L', 'W', 'W', 'W']","['W', 'D', 'W', 'L', 'D']",0.6,0.8,8,4,8,4
+317,2025-04-13 Wolves-Tottenham Hotspur,32,Sun,2025-04-13,Wolves,Tottenham Hotspur,H,4,2,WolvesvsTottenham Hotspur,"['L', 'D', 'W', 'W', 'W']","['L', 'D', 'L', 'L', 'W']",0.3,0.7,4,5,4,5
+318,2025-04-14 Bournemouth-Fulham,32,Mon,2025-04-14,Bournemouth,Fulham,H,1,0,BournemouthvsFulham,"['L', 'D', 'L', 'L', 'D']","['W', 'L', 'W', 'L', 'W']",0.6,0.2,6,6,6,6
+319,2025-04-16 Newcastle United-Crystal Palace,29,Wed,2025-04-16,Newcastle United,Crystal Palace,H,5,0,Newcastle UnitedvsCrystal Palace,"['L', 'W', 'W', 'W', 'W']","['W', 'W', 'D', 'W', 'L']",0.7,0.8,9,6,9,6
+320,2025-04-19 Aston Villa-Newcastle United,33,Sat,2025-04-19,Aston Villa,Newcastle United,H,4,1,Aston VillavsNewcastle United,"['L', 'W', 'W', 'W', 'W']","['W', 'W', 'W', 'W', 'W']",1.0,0.8,8,8,8,8
+321,2025-04-19 Brentford-Brighton,33,Sat,2025-04-19,Brentford,Brighton,H,4,2,BrentfordvsBrighton,"['L', 'W', 'L', 'D', 'D']","['W', 'D', 'L', 'L', 'D']",0.4,0.4,7,6,7,6
+322,2025-04-19 Crystal Palace-Bournemouth,33,Sat,2025-04-19,Crystal Palace,Bournemouth,D,0,0,Crystal PalacevsBournemouth,"['W', 'D', 'W', 'L', 'L']","['D', 'L', 'L', 'D', 'W']",0.4,0.5,5,6,5,6
+323,2025-04-19 Everton-Manchester City,33,Sat,2025-04-19,Everton,Manchester City,A,0,2,EvertonvsManchester City,"['D', 'D', 'L', 'D', 'W']","['L', 'D', 'W', 'D', 'W']",0.6,0.5,4,6,4,6
+324,2025-04-19 West Ham United-Southampton,33,Sat,2025-04-19,West Ham United,Southampton,D,1,1,West Ham UnitedvsSouthampton,"['L', 'D', 'L', 'D', 'L']","['L', 'L', 'D', 'L', 'L']",0.1,0.2,5,1,5,1
+325,2025-04-20 Fulham-Chelsea,33,Sun,2025-04-20,Fulham,Chelsea,A,1,2,FulhamvsChelsea,"['L', 'W', 'L', 'W', 'L']","['W', 'L', 'W', 'D', 'D']",0.6,0.4,7,6,7,6
+326,2025-04-20 Ipswich Town-Arsenal,33,Sun,2025-04-20,Ipswich Town,Arsenal,A,0,4,Ipswich TownvsArsenal,"['L', 'L', 'W', 'L', 'D']","['D', 'W', 'W', 'D', 'D']",0.7,0.3,1,7,1,7
+327,2025-04-20 Leicester City-Liverpool,33,Sun,2025-04-20,Leicester City,Liverpool,A,0,1,Leicester CityvsLiverpool,"['L', 'L', 'L', 'L', 'D']","['W', 'W', 'W', 'L', 'W']",0.8,0.1,2,10,2,10
+328,2025-04-20 Manchester Utd-Wolves,33,Sun,2025-04-20,Manchester Utd,Wolves,A,0,1,Manchester UtdvsWolves,"['D', 'W', 'L', 'D', 'L']","['D', 'W', 'W', 'W', 'W']",0.9,0.4,6,5,6,5
+329,2025-04-21 Tottenham Hotspur-Nottingham Forest,33,Mon,2025-04-21,Tottenham Hotspur,Nottingham Forest,A,1,2,Tottenham HotspurvsNottingham Forest,"['D', 'L', 'L', 'W', 'L']","['W', 'W', 'W', 'L', 'L']",0.6,0.3,6,8,6,8
+330,2025-04-22 Manchester City-Aston Villa,34,Tue,2025-04-22,Manchester City,Aston Villa,H,2,1,Manchester CityvsAston Villa,"['D', 'W', 'D', 'W', 'W']","['W', 'W', 'W', 'W', 'W']",1.0,0.8,10,7,10,7
+331,2025-04-23 Arsenal-Crystal Palace,34,Wed,2025-04-23,Arsenal,Crystal Palace,D,2,2,ArsenalvsCrystal Palace,"['W', 'W', 'D', 'D', 'W']","['D', 'W', 'L', 'L', 'D']",0.4,0.8,10,6,10,6
+332,2025-04-26 Brighton-West Ham United,34,Sat,2025-04-26,Brighton,West Ham United,H,3,2,BrightonvsWest Ham United,"['D', 'L', 'L', 'D', 'L']","['D', 'L', 'D', 'L', 'D']",0.3,0.2,6,4,6,4
+333,2025-04-26 Chelsea-Everton,34,Sat,2025-04-26,Chelsea,Everton,H,1,0,ChelseavsEverton,"['L', 'W', 'D', 'D', 'W']","['D', 'L', 'D', 'W', 'L']",0.4,0.6,9,4,9,4
+334,2025-04-26 Newcastle United-Ipswich Town,34,Sat,2025-04-26,Newcastle United,Ipswich Town,H,3,0,Newcastle UnitedvsIpswich Town,"['W', 'W', 'W', 'W', 'L']","['L', 'W', 'L', 'D', 'L']",0.3,0.8,10,3,10,3
+335,2025-04-26 Southampton-Fulham,34,Sat,2025-04-26,Southampton,Fulham,A,1,2,SouthamptonvsFulham,"['L', 'D', 'L', 'L', 'D']","['W', 'L', 'W', 'L', 'L']",0.4,0.2,1,6,1,6
+336,2025-04-26 Wolves-Leicester City,34,Sat,2025-04-26,Wolves,Leicester City,H,3,0,WolvesvsLeicester City,"['W', 'W', 'W', 'W', 'W']","['L', 'L', 'L', 'D', 'L']",0.1,1.0,5,2,5,2
+337,2025-04-27 Bournemouth-Manchester Utd,34,Sun,2025-04-27,Bournemouth,Manchester Utd,D,1,1,BournemouthvsManchester Utd,"['L', 'L', 'D', 'W', 'D']","['W', 'L', 'D', 'L', 'L']",0.3,0.4,7,4,7,4
+338,2025-04-27 Liverpool-Tottenham Hotspur,34,Sun,2025-04-27,Liverpool,Tottenham Hotspur,H,5,1,LiverpoolvsTottenham Hotspur,"['W', 'W', 'L', 'W', 'W']","['L', 'L', 'W', 'L', 'L']",0.2,0.8,13,5,13,5
+339,2025-05-01 Nottingham Forest-Brentford,34,Thu,2025-05-01,Nottingham Forest,Brentford,A,0,2,Nottingham ForestvsBrentford,"['W', 'W', 'L', 'L', 'W']","['W', 'L', 'D', 'D', 'W']",0.6,0.6,9,5,9,5
+340,2025-05-02 Manchester City-Wolves,35,Fri,2025-05-02,Manchester City,Wolves,H,1,0,Manchester CityvsWolves,"['W', 'D', 'W', 'W', 'W']","['W', 'W', 'W', 'W', 'W']",1.0,0.9,11,6,11,6
+341,2025-05-03 Arsenal-Bournemouth,35,Sat,2025-05-03,Arsenal,Bournemouth,A,1,2,ArsenalvsBournemouth,"['W', 'D', 'D', 'W', 'D']","['L', 'D', 'W', 'D', 'D']",0.5,0.7,10,6,10,6
+342,2025-05-03 Aston Villa-Fulham,35,Sat,2025-05-03,Aston Villa,Fulham,H,1,0,Aston VillavsFulham,"['W', 'W', 'W', 'W', 'L']","['L', 'W', 'L', 'L', 'W']",0.4,0.8,9,7,9,7
+343,2025-05-03 Everton-Ipswich Town,35,Sat,2025-05-03,Everton,Ipswich Town,D,2,2,EvertonvsIpswich Town,"['L', 'D', 'W', 'L', 'L']","['W', 'L', 'D', 'L', 'L']",0.3,0.3,4,3,4,3
+344,2025-05-03 Leicester City-Southampton,35,Sat,2025-05-03,Leicester City,Southampton,H,2,0,Leicester CityvsSouthampton,"['L', 'L', 'D', 'L', 'L']","['D', 'L', 'L', 'D', 'L']",0.2,0.1,2,1,2,1
+345,2025-05-04 Brentford-Manchester Utd,35,Sun,2025-05-04,Brentford,Manchester Utd,H,4,3,BrentfordvsManchester Utd,"['L', 'D', 'D', 'W', 'W']","['L', 'D', 'L', 'L', 'D']",0.2,0.6,8,4,8,4
+346,2025-05-04 Brighton-Newcastle United,35,Sun,2025-05-04,Brighton,Newcastle United,D,1,1,BrightonvsNewcastle United,"['L', 'L', 'D', 'L', 'W']","['W', 'W', 'W', 'L', 'W']",0.8,0.3,7,8,7,8
+347,2025-05-04 Chelsea-Liverpool,35,Sun,2025-05-04,Chelsea,Liverpool,H,3,1,ChelseavsLiverpool,"['W', 'D', 'D', 'W', 'W']","['W', 'L', 'W', 'W', 'W']",0.8,0.8,10,11,10,11
+348,2025-05-04 West Ham United-Tottenham Hotspur,35,Sun,2025-05-04,West Ham United,Tottenham Hotspur,D,1,1,West Ham UnitedvsTottenham Hotspur,"['L', 'D', 'L', 'D', 'L']","['L', 'W', 'L', 'L', 'L']",0.2,0.2,5,5,5,5
+349,2025-05-05 Crystal Palace-Nottingham Forest,35,Mon,2025-05-05,Crystal Palace,Nottingham Forest,D,1,1,Crystal PalacevsNottingham Forest,"['W', 'L', 'L', 'D', 'D']","['W', 'L', 'L', 'W', 'L']",0.4,0.4,5,9,5,9
+350,2025-05-10 Bournemouth-Aston Villa,36,Sat,2025-05-10,Bournemouth,Aston Villa,A,0,1,BournemouthvsAston Villa,"['D', 'W', 'D', 'D', 'W']","['W', 'W', 'W', 'L', 'W']",0.8,0.7,7,7,7,7
+351,2025-05-10 Fulham-Everton,36,Sat,2025-05-10,Fulham,Everton,A,1,3,FulhamvsEverton,"['W', 'L', 'L', 'W', 'L']","['D', 'W', 'L', 'L', 'D']",0.4,0.4,7,4,7,4
+352,2025-05-10 Ipswich Town-Brentford,36,Sat,2025-05-10,Ipswich Town,Brentford,A,0,1,Ipswich TownvsBrentford,"['L', 'D', 'L', 'L', 'D']","['D', 'D', 'W', 'W', 'W']",0.8,0.2,1,6,1,6
+353,2025-05-10 Southampton-Manchester City,36,Sat,2025-05-10,Southampton,Manchester City,D,0,0,SouthamptonvsManchester City,"['L', 'L', 'D', 'L', 'L']","['D', 'W', 'W', 'W', 'W']",0.9,0.1,1,7,1,7
+354,2025-05-10 Wolves-Brighton,36,Sat,2025-05-10,Wolves,Brighton,A,0,2,WolvesvsBrighton,"['W', 'W', 'W', 'W', 'L']","['L', 'D', 'L', 'W', 'D']",0.4,0.8,6,6,6,6
+355,2025-05-11 Liverpool-Arsenal,36,Sun,2025-05-11,Liverpool,Arsenal,D,2,2,LiverpoolvsArsenal,"['L', 'W', 'W', 'W', 'L']","['D', 'D', 'W', 'D', 'L']",0.5,0.6,14,8,14,8
+356,2025-05-11 Manchester Utd-West Ham United,36,Sun,2025-05-11,Manchester Utd,West Ham United,A,0,2,Manchester UtdvsWest Ham United,"['D', 'L', 'L', 'D', 'L']","['D', 'L', 'D', 'L', 'D']",0.3,0.2,6,4,6,4
+357,2025-05-11 Newcastle United-Chelsea,36,Sun,2025-05-11,Newcastle United,Chelsea,H,2,0,Newcastle UnitedvsChelsea,"['W', 'W', 'L', 'W', 'D']","['D', 'D', 'W', 'W', 'W']",0.8,0.7,11,7,11,7
+358,2025-05-11 Nottingham Forest-Leicester City,36,Sun,2025-05-11,Nottingham Forest,Leicester City,D,2,2,Nottingham ForestvsLeicester City,"['L', 'L', 'W', 'L', 'D']","['L', 'D', 'L', 'L', 'W']",0.3,0.3,9,2,9,2
+359,2025-05-11 Tottenham Hotspur-Crystal Palace,36,Sun,2025-05-11,Tottenham Hotspur,Crystal Palace,A,0,2,Tottenham HotspurvsCrystal Palace,"['W', 'L', 'L', 'L', 'D']","['L', 'L', 'D', 'D', 'D']",0.3,0.3,6,6,6,6
+360,2025-05-16 Aston Villa-Tottenham Hotspur,37,Fri,2025-05-16,Aston Villa,Tottenham Hotspur,H,2,0,Aston VillavsTottenham Hotspur,"['W', 'W', 'L', 'W', 'W']","['L', 'L', 'L', 'D', 'L']",0.1,0.8,10,5,10,5
+361,2025-05-16 Chelsea-Manchester Utd,37,Fri,2025-05-16,Chelsea,Manchester Utd,H,1,0,ChelseavsManchester Utd,"['D', 'W', 'W', 'W', 'L']","['L', 'L', 'D', 'L', 'L']",0.1,0.7,11,4,11,4
+362,2025-05-18 Arsenal-Newcastle United,37,Sun,2025-05-18,Arsenal,Newcastle United,H,1,0,ArsenalvsNewcastle United,"['D', 'W', 'D', 'L', 'D']","['W', 'L', 'W', 'D', 'W']",0.7,0.5,10,8,10,8
+363,2025-05-18 Brentford-Fulham,37,Sun,2025-05-18,Brentford,Fulham,A,2,3,BrentfordvsFulham,"['D', 'W', 'W', 'W', 'W']","['L', 'L', 'W', 'L', 'L']",0.2,0.9,9,7,9,7
+364,2025-05-18 Everton-Southampton,37,Sun,2025-05-18,Everton,Southampton,H,2,0,EvertonvsSouthampton,"['W', 'L', 'L', 'D', 'W']","['L', 'D', 'L', 'L', 'D']",0.2,0.5,4,1,4,1
+365,2025-05-18 Leicester City-Ipswich Town,37,Sun,2025-05-18,Leicester City,Ipswich Town,H,2,0,Leicester CityvsIpswich Town,"['D', 'L', 'L', 'W', 'D']","['D', 'L', 'L', 'D', 'L']",0.2,0.4,3,3,3,3
+366,2025-05-18 West Ham United-Nottingham Forest,37,Sun,2025-05-18,West Ham United,Nottingham Forest,A,1,2,West Ham UnitedvsNottingham Forest,"['L', 'D', 'L', 'D', 'W']","['L', 'W', 'L', 'D', 'D']",0.4,0.4,5,9,5,9
+367,2025-05-19 Brighton-Liverpool,37,Mon,2025-05-19,Brighton,Liverpool,H,3,2,BrightonvsLiverpool,"['D', 'L', 'W', 'D', 'W']","['W', 'W', 'W', 'L', 'D']",0.7,0.6,7,11,7,11
+368,2025-05-20 Crystal Palace-Wolves,37,Tue,2025-05-20,Crystal Palace,Wolves,H,4,2,Crystal PalacevsWolves,"['L', 'D', 'D', 'D', 'W']","['W', 'W', 'W', 'L', 'L']",0.6,0.5,5,6,5,6
+369,2025-05-20 Manchester City-Bournemouth,37,Tue,2025-05-20,Manchester City,Bournemouth,H,3,1,Manchester CityvsBournemouth,"['W', 'W', 'W', 'W', 'D']","['W', 'D', 'D', 'W', 'L']",0.6,0.9,12,7,12,7
+370,2025-05-25 Bournemouth-Leicester City,38,Sun,2025-05-25,Bournemouth,Leicester City,H,2,0,BournemouthvsLeicester City,"['D', 'D', 'W', 'L', 'L']","['L', 'L', 'W', 'D', 'W']",0.5,0.4,7,2,7,2
+371,2025-05-25 Fulham-Manchester City,38,Sun,2025-05-25,Fulham,Manchester City,A,0,2,FulhamvsManchester City,"['L', 'W', 'L', 'L', 'W']","['W', 'W', 'W', 'D', 'W']",0.9,0.4,7,7,7,7
+372,2025-05-25 Ipswich Town-West Ham United,38,Sun,2025-05-25,Ipswich Town,West Ham United,A,1,3,Ipswich TownvsWest Ham United,"['L', 'L', 'D', 'L', 'L']","['D', 'L', 'D', 'W', 'L']",0.4,0.1,1,5,1,5
+373,2025-05-25 Liverpool-Crystal Palace,38,Sun,2025-05-25,Liverpool,Crystal Palace,D,1,1,LiverpoolvsCrystal Palace,"['W', 'W', 'L', 'D', 'L']","['D', 'D', 'D', 'W', 'W']",0.7,0.5,14,7,14,7
+374,2025-05-25 Manchester Utd-Aston Villa,38,Sun,2025-05-25,Manchester Utd,Aston Villa,H,2,0,Manchester UtdvsAston Villa,"['L', 'D', 'L', 'L', 'L']","['W', 'L', 'W', 'W', 'W']",0.8,0.1,6,8,6,8
+375,2025-05-25 Newcastle United-Everton,38,Sun,2025-05-25,Newcastle United,Everton,A,0,1,Newcastle UnitedvsEverton,"['L', 'W', 'D', 'W', 'L']","['L', 'L', 'D', 'W', 'W']",0.5,0.5,12,5,12,5
+376,2025-05-25 Nottingham Forest-Chelsea,38,Sun,2025-05-25,Nottingham Forest,Chelsea,A,0,1,Nottingham ForestvsChelsea,"['W', 'L', 'D', 'D', 'W']","['W', 'W', 'W', 'L', 'W']",0.8,0.6,9,7,9,7
+377,2025-05-25 Southampton-Arsenal,38,Sun,2025-05-25,Southampton,Arsenal,A,1,2,SouthamptonvsArsenal,"['D', 'L', 'L', 'D', 'L']","['W', 'D', 'L', 'D', 'W']",0.6,0.2,1,8,1,8
+378,2025-05-25 Tottenham Hotspur-Brighton,38,Sun,2025-05-25,Tottenham Hotspur,Brighton,A,1,4,Tottenham HotspurvsBrighton,"['L', 'L', 'D', 'L', 'L']","['L', 'W', 'D', 'W', 'W']",0.7,0.1,6,7,6,7
+379,2025-05-25 Wolves-Brentford,38,Sun,2025-05-25,Wolves,Brentford,D,1,1,WolvesvsBrentford,"['W', 'W', 'L', 'L', 'L']","['W', 'W', 'W', 'W', 'L']",0.8,0.4,6,7,6,7
